@@ -1,0 +1,166 @@
+#+OPTIONS: toc:nil H:10
+
+#+LATEX_CMD: xelatex
+
+#+LaTeX_HEADER: \usepackage{mycv}
+
+#+MACRO: first  Puneeth
+#+MACRO: last   CHAGANTI
+#+MACRO: full {{{first}}} {{{last}}}
+#+MACRO: address  \#215 Tansa House, IIT-B, Powai, Mumbai - 400076
+#+MACRO: phone  +91 996 757 6569
+
+#+TITLE: Puneeth Chaganti
+
+* Work Experience
+*** July 2009 - /Present/
+    *Research Associate*, [[http://fossee.in][FOSSEE]], IIT-Bombay
+
+    My work in this team involves design and development of learning
+    material for, and training of teachers and students in the area of
+    Python for Scientific Computing.  I have been involved in
+    development of the course material for an introductory course on
+    Software Tools, Techniques and Practices for Scientists and
+    Engineers, which is going to be delivered at various places
+    including IIT-B, beginning next semester.  I have also ported some
+    Control Engineering code from MATLAB to Python.  I have also been
+    involved in the initial set-up \& maintenance of the server.
+*** Jan - Jun, 2009
+    *Intern*, STMicroelectronics India Pvt. Ltd., Bangalore
+
+    Developed a new sub-system for automated testing of a few of the
+    processes, for testing the software on a DigitalTV Chip.  The
+    sub-system abstracts out the actual function calls for the tests,
+    and allows the tests to be conducted by anybody.  This system
+    provides a scope for future automation of the testing process.
+
+*** May - Jul 2007
+    *Summer Intern*, National Physical Laboratory, New Delhi
+
+    Fabricated transparent nano-structured transparent ZnO thin films,
+    doped with MnO, using the Sol-Gel spin coating process.  Also
+    carried out characterization of the films using various techniques
+    like TEM, SEM, X-Ray diffraction and film stress measurement.
+* Education
+*** 2005 - 2009
+    *B.E.(Hons.), Electrical and Electronics*
+***** Institution
+      Birla Institute of Technology and Science - Pilani, Goa Campus
+***** Score
+      8.31 out of 10 (CGPA)
+*** 2005
+    *Intermediate Public Examination*, Board of Intermediate
+     Education, A.P.
+***** Institution
+      Ratna Junior College, Hyderabad
+***** Score
+      94.2%
+*** 2003
+    *All India Secondary Certificate Examination*, CBSE
+***** Institution
+      D.A.V Public School, Hyderabad
+***** Score
+      94.8%
+* Academic Projects
+*** Aug - Dec, 2008 
+    *Designing a room status manager*
+    
+    Designed and developed a room status manager that keeps track of,
+    and shows whether the room is occupied or not. Visitors may choose
+    to leave messages, that can be viewed later.  It was designed as a
+    part of a course on Embedded System Design.  It involved
+    interfacing an LCD and a keypad to an 8051 and coding in assembly.
+***** Mentor
+      Dr.K.R. Anupama, EEE, BITS-Pilani, Goa Campus
+***** Team-mate
+      Ravitheja Tetali, B.E.(Hons.) Electronics \& Instrumentation
+*** Aug - Dec, 2008
+    *Study of phase transitions in mechanical models*
+
+    The project involved the study, observation of the phases and
+    plotting the phase transitions in a simple mechanical model using
+    MATLAB as a tool. A simple model of a sphere rolling down the
+    surface of another sphere was considered and the phase transitions
+    between the pure rolling, rolling with slipping and detached
+    phases were studied.
+***** Mentor
+      Dr. A.K. Biswas, Physics, BITS-Pilani, Goa Campus
+*** Aug - Dec, 2007
+    *Simulation of class room acoustics*
+
+    The project involved simulation of class-room acoustics using the
+    method of images, in general, and the Allen-Berkeley algorithm in
+    particular, to obtain the reverberation time profile of a cuboid
+    shaped classroom and to identify the `acoustically' best
+    locations. MATLAB was used to write and simulate the code. 
+***** Mentor
+      Dr. Toby Joseph, Physics, BITS-Pilani, Goa Campus
+***** Team-mate
+      Ravitheja Tetali, B.E. (Hons.) Electronics & Instrumentation
+* Other Projects
+*** Emacs Org-mode
+    I am an active contributor to Org-mode which is an Emacs package
+    for keeping notes, maintaining ToDo lists, project planning, and
+    authoring with a fast and effective plain-text system.
+
+    Apart from patches directly to Org-mode, I have made some
+    contributions to the "eco-system" of org-mode. \\
+
+    - org2blog :: An org-mode based client, that can be used to post
+                  directly to Wordpress blogs from within Org-mode.
+    - Pandoc :: Pandoc is a swiss-army knife, to convert files from
+                one markup format into another. I added org-mode as
+                one of the output formats to it.
+    - org-ghi :: Org-mode can be used to keep ToDo lists; and each bug
+                 or issue in your code, can be considered a ToDo
+                 item. org-ghi provides an interface between GitHub
+                 Issues and Org-mode.
+    - gollum :: Gollum is the git-powered wiki system that is used in
+                every GitHub Wiki. I have added org-mode support for
+                the visual editor of gollum. 
+*** GetHub
+    GetHub is a Chrome extension that displays desktop notifications
+    for new updates in your Github NewsFeed.
+* Technical Skills
+*** Languages & Libraries
+    - Proficient :: Python (Numpy, Scipy, Matplotlib), Emacs Lisp,
+                    Matlab, C, Bash, HTML, Javascript, CSS
+    - Learning :: Haskell, C++, OpenCV, CMU Sphinx
+*** Authoring
+    - Text :: Org-mode, LaTeX, reStructured Text, Emacs
+    - Graphics :: Gimp, Inkscape
+*** Version Control
+    Git, Mercurial
+*** Sys Admin
+    Good experience with system administration on Debian based systems
+    and Bash scripting.
+*** Course Design
+    Course design and Content development based on instructional
+    design principles. 
+
+* Publications and Paper Presentations
+  - M.Deepa, N. Bahadur, A.K. Srivastava, P. Chaganti, K.N. Sood,
+    ``Optical properties and mechanical characteristics of transperent
+    nanostructured $Zn_{1-x}Mn_{x}O$ thin films'', \emph{Jour. of
+    Phy. and Chem. of Solids}, 70 (2009), 291-297
+  - Delivered a beginner level [[https://github.com/punchagan/talks/blob/master/scipy.in-2010/slides/outline.pdf?raw=true][talk]] at Scipy.in 2010 on Image
+    Processing, to get beginners enthused about Python and using it
+    for Image Processing. 
+  - Conducted [[https://github.com/punchagan/talks/blob/master/gnunify-2010/slides/gnunify-scipy.pdf?raw=true][workshop]] on Image Processing using SciPy at Gnunify 2010
+
+
+* Personal Information
+*** Date of Birth
+    15^{th} October, 1987
+*** Address
+    {{{address}}}
+*** Phone   
+    {{{phone}}}
+*** E-mail
+    [[mailto:punchagan@muse-amuse.in][punchagan@muse-amuse.in]]
+*** Blog
+    http://punchagan.muse-amuse.in
+*** Code
+    https://github.com/punchagan   
+
+
