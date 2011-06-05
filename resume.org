@@ -92,10 +92,11 @@
     GetHub is a Chrome extension that displays desktop notifications
     for new updates in your GitHub NewsFeed.  (/Javascript/)
 *** V-Block
-    An Android app/hack that let’s you block calls from unwanted
-    numbers.  The USP of this app is that, it allows the users of this
-    app to share the "bad" numbers through Google docs.  This app was
-    written during a hack night and was adjudged the best hack.  (/Python/)
+    An Android app/hack that lets a user block calls from unwanted
+    numbers.  The USP of this app is that it allows the users, to
+    share the "bad" numbers with each other through Google docs.  This
+    app was written during a hack night and was adjudged the best
+    hack.  (/Python/)
 *** UG Projects
     Worked on projects like Simulation of Class-room acoustics, Study
     of phase transitions in mechanical models and Designing a room
@@ -103,8 +104,8 @@
 
 * Technical Skills
 *** Languages & Libraries
-    - Proficient :: Python (Numpy, Scipy, Matplotlib), Emacs Lisp,
-                    Matlab, C, Bash, HTML, Javascript, CSS
+    - Proficient :: Python (Numpy, Scipy, Matplotlib), Emacs Lisp, C,
+                    Bash, HTML, Javascript, CSS
     - Learning :: Haskell, C++, OpenCV, CMU Sphinx
 *** Authoring
     - Text :: Org-mode, LaTeX, reStructured Text, Emacs
@@ -119,7 +120,7 @@
     15^{th} October, 1987
 *** Address
     {{{address}}}
-*** Phone   
+*** Phone
     {{{phone}}}
 *** E-mail
     [[mailto:punchagan@muse-amuse.in][punchagan@muse-amuse.in]]
@@ -129,3 +130,19 @@
     https://github.com/punchagan   
 
 
+
+* References
+  1. Prof. Prabhu Ramachandran
+     
+     Principal Investigator, /FOSSEE/, IIT-Bombay
+
+     - E-mail: [[mailto:prabhu@fossee.in][prabhu (at) fossee (dot) in]]
+     - Phone: 09833687121
+
+  2. Mr. Asokan Pichai
+     
+     Consultant, /FOSSEE/
+
+     - E-mail: [[mailto:pasokan@fossee.in][pasokan (at) fossee (dot) in]]
+     - Phone: 09840911857
+     
