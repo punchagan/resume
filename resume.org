@@ -1,7 +1,5 @@
 #+OPTIONS: toc:nil H:10
 
-#+LATEX_CMD: xelatex
-
 #+LaTeX_HEADER: \usepackage{mycv}
 
 #+MACRO: first  Puneeth
