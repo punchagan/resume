@@ -1,5 +1,7 @@
-If you are looking for the output PDF visit [[http://EliotBaker.com][EliotBaker.com]] or click
-this [[http://eliotbaker.com/images/resume.pdf][direct link to resume.pdf]].
+** Looking for a PDF?
+Please visit [[http://EliotBaker.com][EliotBaker.com]] or click this [[http://eliotbaker.com/images/resume.pdf][direct link to resume.pdf]].
+
+*** About resume repo
 
 I want to give a HUGE thanks to [[https://github.com/punchagan][punchagan]] for starting me off with his [[https://github.com/punchagan/resume][resume]] repo.
 
