@@ -3,8 +3,19 @@
  %A Few Useful Packages
 \usepackage{url}
 \usepackage{titlesec} %custom section
+%\usepackage[small, compact]{titlesec} %custom section
 \usepackage{enumitem} %custom lists
 \usepackage{calc}
+
+% Font
+\usepackage{tgpagella}
+\usepackage[T1]{fontenc}
+\usepackage{relsize}
+%\usepackage{amssymb}
+%\renewcommand{\labelitemi}{\tiny$\blacksquare$}
+%% Custom bullet
+\usepackage{xcolor}
+
 
 \usepackage{color}
 \usepackage{hyperref}
@@ -27,12 +38,13 @@
 \textheight 9.5in
 
 % Sideways
-\textwidth 6.0in
+\textwidth 6in
 
 %% Title
 \renewcommand*{\maketitle}{%
   {
-     \raggedleft{\Huge \@title}\\[.5in]
+     \raggedleft{\Huge \textbf \@title}\\[0.1in]
+     \raggedleft{\small{ \emph{\phone \ $\bullet$ \href{mailto:\email}{\email} \ $\bullet$ \href{\url}{\url}}}}\\
   }
 }
 
@@ -53,20 +65,29 @@
             {0pt} %sep
             {} %before
             [] %after
-\titlespacing{\subsection}{90pt}{5pt}{15pt}
+\titlespacing{\subsection}{80pt}{7pt}{15pt}
 
 \titleformat{\subsubsection} %command
             [leftmargin] %shape
-            {\tiny\scshape\raggedleft} %format
+            {\small\scshape\raggedleft} %format - orginally tiny
             {} %label
             {0pt} %sep
             {} %before
             [] %after
-\titlespacing{\subsubsection}{60pt}{0pt}{15pt}
+\titlespacing{\subsubsection}{80pt}{5pt}{15pt}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % Paragraph indent
 \setlength{\parindent}{0cm}
+
+%% \begin{itemize}
+%%  \renewcommand{\labelitemi}{\scriptsize$\blacksquare$} 
+%%  \item  An extensively analysis 
+%% \end{itemize}
+
+% Square bullets
+\newcommand{\localtextbulletone}{\textcolor{black}{\raisebox{.45ex}{\rule{.6ex}{.6ex}}}}
+%\renewcommand{\labelitemi}{\localtextbulletone}
 
 % Lists
 \let\origdescription\description
@@ -77,23 +98,54 @@
   \setlength{\parskip}{0in} 
   \setlength{\partopsep}{0in}
   
-  \setlength{\itemsep}{0.05in}   
+  \setlength{\itemsep}{0.02in}   
   \setlength{\parsep}{0in} 
 }
 {\endlist}
 
+%\endd
+%\endL
 % Description Label 
 \renewcommand\descriptionlabel[1]%
 {\hspace\labelsep\scshape{#1 --}}
 
 \renewenvironment{itemize}{
-  \begin{list}{-}{%
-      \setlength{\itemsep}{0.05in}
+  %\smaller
+  \small
+    \begin{list}{\localtextbulletone}{%% \tiny$\blacksquare$
+      \setlength{\itemsep}{0.01in}
       \setlength{\parsep}{0in} 
       \setlength{\parskip}{0in}
       \setlength{\topsep}{0in} 
       \setlength{\partopsep}{0in}
-    \setlength{\leftmargin}{0.1in}}}{\end{list}}
+    \setlength{\leftmargin}{0.1in}}}
+{\end{list}}
 
+%Trying to remove top space on \bigin\center
+%\usepackage{lipsum}
+\let\oldcenter\center
+\let\oldendcenter\endcenter
+\newenvironment{tightcenter}{
+\setlength{\topsep}{0in}
+\setlength{\parsep}{0in} 
+      \setlength{\parskip}{0in}
+      \setlength{\topsep}{0in} 
+      \setlength{\partopsep}{0in}
+    \setlength{\leftmargin}{0.1in}
+\oldcenter
+}{\oldendcenter}
 
+%% \let\originaltabular\tabular
+%% \let\endoriginaltabular\endtabular
+%% \renewenvironment{tabular}[1]{%
+%%   \begingroup%
+%%   \centering%
+%%   \originaltabular{#1}}%
+%%   {\endoriginaltabular\endgroup}
 
+%% \let\originaltabular\tabular
+%% \let\endoriginaltabular\endtabular
+%% \renewenvironment{tabular}[1]{%
+%%   \centering%
+%%   \originaltabular{#1}}%
+%%   {\endoriginaltabular}

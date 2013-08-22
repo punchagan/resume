@@ -1,164 +1,113 @@
 #+OPTIONS: toc:nil H:10
-
+#+LATEX_HEADER: \def \email {{{{email}}}}
+#+LATEX_HEADER: \def \phone {{{{phone}}}}
+#+LATEX_HEADER: \def \url {{{{url}}}}
 #+LaTeX_HEADER: \usepackage{mycv}
 
-#+MACRO: first  Puneeth
-#+MACRO: last   CHAGANTI
-#+MACRO: full {{{first}}} {{{last}}}
-#+MACRO: address  \#215 Tansa House, IIT-B, Powai, Mumbai - 400076
-#+MACRO: phone  +91 996 757 6569
+#+MACRO: phone  215.740.1960
+#+MACRO: email eliotbaker@gmail.com
+#+MACRO: url http://eliotbaker.com
 
-#+TITLE: Puneeth Chaganti
+#+TITLE: ELIOT BAKER
 
-* Work Experience
-*** July 2009 - /Present/
-    *Research Associate*, [[http://fossee.in][FOSSEE]], IIT-Bombay
+* Objective
+** /Present/
+  To obtain a software engineering opportunity focused on design and
+ development of protocol based messaging or storage systems utilizing
+ agile development methodology in a *nix environment.
+* Experience
+** November 2011 -- /Present/
+   *Software Engineer*, [[http://colorquick.com][ColorQuick]], Pennsauken, NJ
+   - Developed web interfaces in python utilizing Flask framework for data set visualization.
+   - Generated dynamic PDF documents with third party libraries parsing xml input data.
+   - Designed client web interfaces using Twitter bootstrap and PHP with mySQL to JSON parsed via jQuery.
+   - Adopted REST API paradigm for interfacing in real time with legacy applications over HTTP.
+   - Managed over 5 servers running mySQL, nginx, and git on CentOS Linux.
+   - Configured server applications to be scheduled for times and monitored running applications.
+   - Interacted and met with clients to plan features and help debug specific application issues.
 
-    My work in this team involves design and development of learning
-    material for, and training of teachers and students in the area of
-    Python for Scientific Computing.  I have been involved in
-    development of the course material for an introductory course on
-    Software Tools, Techniques and Practices for Scientists and
-    Engineers, which is going to be delivered at various places
-    including IIT-B, beginning next semester.  I have also ported some
-    Control Engineering code from MATLAB to Python.  I have also been
-    involved in the initial set-up \& maintenance of the server.
-*** Jan - Jun, 2009
-    *Intern*, STMicroelectronics India Pvt. Ltd., Bangalore
+** May 2009 -- /Present/
+   *Independent Contractor*, New Orleans, LA
+   - Installed systems for Dell and HP for a variety of client sites and site sizes.
+   - Eliminated spyware or virus issues using a variety of software.
+   - Reformatted/Reimaged and configured Windows on desktop and laptop machines.
+   - Configured medium sized wired and wireless LANs with a strong understanding of TCP/IP.
 
-    Developed a new sub-system for automated testing of a few of the
-    processes, for testing the software on a DigitalTV Chip.  The
-    sub-system abstracts out the actual function calls for the tests,
-    and allows the tests to be conducted by anybody.  This system
-    provides a scope for future automation of the testing process.
+** May 2008 -- August 2008
+   *Technician Senior Assistant (Co-op)*, [[http://csc.com][Computer Science Corporation]], Marlton, NJ
+   - Applied computer science principles to automate business processes.
+   - Created automated budget through use of in house tools.
+   - Automated ticket retrieval and updates to increase efficiency by over 300%.
+   - Developed alternative tool to analyze SAP roles to expand its capabilities.
+** May 2007 -- August 2007
+   *Software Engineer Co-op*, [[http://ibm.com ][IBM]], West Chester, PA
+   - Designed Java portlets using IBM API to keep a local site record of employee information. 
+   - Implemented Lotus Domino versions 6.5.x, 7.0.x, and 8 Beta on i5 and zLinux platforms.
+   - Installed fix packs and hot fixes over Lotus Domino installs on i5 and zLinux platforms.
+   - Configured static Lotus Domino servers on i5 and virtual zLinux multiboot on Z/VM.
+** October 2005 -- May 2009
+   *Manager*, [[http://www.rescom.psu.edu/][Penn State Residential Computing]], State College, PA
+   - Instructed technicians in computer repair techniques and ensured all policies were followed.
+   - Responded to client questions via phone, email, and face to face conversations.
+   - Configured and maintained stability and security among students’ personal computers before being promoted to manager.
 
-*** May - Jul 2007
-    *Summer Intern*, National Physical Laboratory, New Delhi
+* Skills & Technology
+** Programming 
+   | *Python* | *Erlang* | *Javascript* | *PHP* | *HTML* | *CSS* | C/C++ | Objective-C | C# | Java | 
+*** Servers
+   | Linux(Debian) | Linux(CentOS) | FreeBSD | nginx | node.js | Apache | 
+*** Storage
+   | *MySQL*     | SQLite | Core Data | XML | JSON | Redis |
+*** Methodology
+   | REST | TDD | MVC | SOAP | AJAX |
+*** Tools
+   | Emacs | vim |  git | mercurial |
+*** Framworks
+   | jQuery | Express | Flask|
+*** Protocols
+   | TCP/IP | HTTP | XMPP |
+#*** Platorms
+#|iOS|
 
-    Fabricated transparent nano-structured transparent ZnO thin films,
-    doped with MnO, using the Sol-Gel spin coating process.  Also
-    carried out characterization of the films using various techniques
-    like TEM, SEM, X-Ray diffraction and film stress measurement.
 * Education
-*** 2005 - 2009
-    *B.E.(Hons.), Electrical and Electronics*
-***** Institution
-      Birla Institute of Technology and Science - Pilani, Goa Campus
-***** Score
-      8.31 out of 10 (CGPA)
-*** 2005
-    *Intermediate Public Examination*, Board of Intermediate
-     Education, A.P.
-***** Institution
-      Ratna Junior College, Hyderabad
-***** Score
-      94.2%
-*** 2003
-    *All India Secondary Certificate Examination*, CBSE
-***** Institution
-      D.A.V Public School, Hyderabad
-***** Score
-      94.8%
-* Academic Projects
-*** Aug - Dec, 2008 
-    *Designing a room status manager*
-    
-    Designed and developed a room status manager that keeps track of,
-    and shows whether the room is occupied or not. Visitors may choose
-    to leave messages, that can be viewed later.  It was designed as a
-    part of a course on Embedded System Design.  It involved
-    interfacing an LCD and a keypad to an 8051 and coding in assembly.
-***** Mentor
-      Dr.K.R. Anupama, EEE, BITS-Pilani, Goa Campus
-***** Team-mate
-      Ravitheja Tetali, B.E.(Hons.) Electronics \& Instrumentation
-*** Aug - Dec, 2008
-    *Study of phase transitions in mechanical models*
+** 2005 -- 2009
+   *B.S. Computer Engineering*, Pennsylvania State University, Cumulative GPA: 3.2/4.0
 
-    The project involved the study, observation of the phases and
-    plotting the phase transitions in a simple mechanical model using
-    MATLAB as a tool. A simple model of a sphere rolling down the
-    surface of another sphere was considered and the phase transitions
-    between the pure rolling, rolling with slipping and detached
-    phases were studied.
-***** Mentor
-      Dr. A.K. Biswas, Physics, BITS-Pilani, Goa Campus
-*** Aug - Dec, 2007
-    *Simulation of class room acoustics*
-
-    The project involved simulation of class-room acoustics using the
-    method of images, in general, and the Allen-Berkeley algorithm in
-    particular, to obtain the reverberation time profile of a cuboid
-    shaped classroom and to identify the `acoustically' best
-    locations. MATLAB was used to write and simulate the code. 
-***** Mentor
-      Dr. Toby Joseph, Physics, BITS-Pilani, Goa Campus
-***** Team-mate
-      Ravitheja Tetali, B.E. (Hons.) Electronics & Instrumentation
-* Other Projects
-*** Emacs Org-mode
-    I am an active contributor to Org-mode which is an Emacs package
-    for keeping notes, maintaining ToDo lists, project planning, and
-    authoring with a fast and effective plain-text system.
-
-    Apart from patches directly to Org-mode, I have made some
-    contributions to the "eco-system" of org-mode. \\
-
-    - org2blog :: An org-mode based client, that can be used to post
-                  directly to Wordpress blogs from within Org-mode.
-    - Pandoc :: Pandoc is a swiss-army knife, to convert files from
-                one markup format into another. I added org-mode as
-                one of the output formats to it.
-    - org-ghi :: Org-mode can be used to keep ToDo lists; and each bug
-                 or issue in your code, can be considered a ToDo
-                 item. org-ghi provides an interface between GitHub
-                 Issues and Org-mode.
-    - gollum :: Gollum is the git-powered wiki system that is used in
-                every GitHub Wiki. I have added org-mode support for
-                the visual editor of gollum. 
-*** GetHub
-    GetHub is a Chrome extension that displays desktop notifications
-    for new updates in your Github NewsFeed.
-* Technical Skills
-*** Languages & Libraries
-    - Proficient :: Python (Numpy, Scipy, Matplotlib), Emacs Lisp,
-                    Matlab, C, Bash, HTML, Javascript, CSS
-    - Learning :: Haskell, C++, OpenCV, CMU Sphinx
-*** Authoring
-    - Text :: Org-mode, LaTeX, reStructured Text, Emacs
-    - Graphics :: Gimp, Inkscape
-*** Version Control
-    Git, Mercurial
-*** Sys Admin
-    Good experience with system administration on Debian based systems
-    and Bash scripting.
-*** Course Design
-    Course design and Content development based on instructional
-    design principles. 
-
-* Publications and Paper Presentations
-  - M.Deepa, N. Bahadur, A.K. Srivastava, P. Chaganti, K.N. Sood,
-    ``Optical properties and mechanical characteristics of transperent
-    nanostructured $Zn_{1-x}Mn_{x}O$ thin films'', \emph{Jour. of
-    Phy. and Chem. of Solids}, 70 (2009), 291-297
-  - Delivered a beginner level [[https://github.com/punchagan/talks/blob/master/scipy.in-2010/slides/outline.pdf?raw=true][talk]] at Scipy.in 2010 on Image
-    Processing, to get beginners enthused about Python and using it
-    for Image Processing. 
-  - Conducted [[https://github.com/punchagan/talks/blob/master/gnunify-2010/slides/gnunify-scipy.pdf?raw=true][workshop]] on Image Processing using SciPy at Gnunify 2010
-
-
-* Personal Information
-*** Date of Birth
-    15^{th} October, 1987
-*** Address
-    {{{address}}}
-*** Phone   
-    {{{phone}}}
-*** E-mail
-    [[mailto:punchagan@muse-amuse.in][punchagan@muse-amuse.in]]
-*** Blog
-    http://punchagan.muse-amuse.in
-*** Code
-    https://github.com/punchagan   
-
-
+* Activities
+** 2012
+   *[[https://github.com/gcs272/Pots-Pans][Pots-N-Pans]]*, Hack the Change, Second Place
+   - An sms based alerting system for developing nations location based subscription. 
+   - Utilizing a python message router backed by redis storage via Twilio APIs.
+** 2011 -- Present
+   *[[http://www.meetup.com/philly-tech/][Philly Tech Meetup]]*, Local Startups and Presentations
+   - Attended various pitch presentations including local startups as well as tech presentations including Basho's riak data store.
+** 2011 -- Present
+   *[[http://www.meetup.com/phillypug/][PhillyPUG]]*, Python User Group
+   - Educated via presentations held by local Pythonists presenting topics such as pandas big data store as real world application of computer vision frameworks.
+** 2007 -- Present
+   *Eta Kappa Nu Epsilon Chapter*, Member
+   - Partcipated in tutoring sessions for technical engineering classes.
+** 2006 -- 2008
+   *Penn State Engineering House*
+   - Engaged in scheduled activities with other resident engineers as well as developing professional and technical skills.
+* Additional Relevant Experience
+** May 2006 -- August 2006
+   *Information Technology Intern*, [[http://www.preit.com/][Pennsylvania Real Estate]], Philadelphia, PA
+   - Created and edited manuals currently in use outlining the Avaya Softphone, My.Preit.com payroll information, and Palm Treos.
+   - Deployed images to newly received computers using Symantec Ghost.
+   - Utilized active directory and Microsoft SMS to remotely to support the issues of users.
+   - Functioned as a liaison between the IT department and its users.
+** May 2010 – October 2011
+   *Social Media Personal Project*, iPhone Client
+   - Designed user interface to incorporate Facebook, Twitter, Google Buzz, and Foursquare.
+   - Captured camera and camera roll images and sent these to server for storage.
+   - Leveraged GPS hardware to send relevant location data to server.
+   - Stored individual user data cache on phone and synchronized with server upon login.
+   - Parsed JSON data in background thread while fetching data on main thread.
+   - Communicated to server through TCP/IP replacing REST interface. 
+   *Social Media Personal Project*, Backend API
+   - Created interfaces to communicate with Facebook, Twitter, Google Buzz, and Foursquare.
+   - Designed DB layout to store user contact and information sharing data.
+   - Prototyped server infrastructure in PHP, storing data in MySQL database.
+   - Reworked prototype into erlang to support real time messaging and updates system.
+   - Developed prototype REST then custom streaming API to communicate with iOS client.
