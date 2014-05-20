@@ -16,13 +16,16 @@
 
     My work in this team involves design and development of learning
     material for, and training of teachers and students in the area of
-    Python for Scientific Computing.  I have been involved in
-    development of the course material for an introductory course on
-    Software Tools, Techniques and Practices for Scientists and
-    Engineers, which is going to be delivered at various places
-    including IIT-B, beginning next semester.  I have also ported some
-    Control Engineering code from MATLAB to Python.  I have also been
-    involved in the initial set-up \& maintenance of the server.
+    Python for Scientific Computing.  
+
+    I have been involved in development of the course material for an
+    introductory course on Software Tools, Techniques and Practices
+    for Scientists and Engineers, which is going to be delivered at
+    various places including IIT-B, beginning next semester.
+
+    I have also ported some Control Engineering code from MATLAB to
+    Python.  I have also been involved in the initial set-up &
+    maintenance of the server.
 *** Jan - Jun, 2009
     *Intern*, STMicroelectronics India Pvt. Ltd., Bangalore
 
@@ -59,43 +62,7 @@
       D.A.V Public School, Hyderabad
 ***** Score
       94.8%
-* Academic Projects
-*** Aug - Dec, 2008 
-    *Designing a room status manager*
-    
-    Designed and developed a room status manager that keeps track of,
-    and shows whether the room is occupied or not. Visitors may choose
-    to leave messages, that can be viewed later.  It was designed as a
-    part of a course on Embedded System Design.  It involved
-    interfacing an LCD and a keypad to an 8051 and coding in assembly.
-***** Mentor
-      Dr.K.R. Anupama, EEE, BITS-Pilani, Goa Campus
-***** Team-mate
-      Ravitheja Tetali, B.E.(Hons.) Electronics \& Instrumentation
-*** Aug - Dec, 2008
-    *Study of phase transitions in mechanical models*
-
-    The project involved the study, observation of the phases and
-    plotting the phase transitions in a simple mechanical model using
-    MATLAB as a tool. A simple model of a sphere rolling down the
-    surface of another sphere was considered and the phase transitions
-    between the pure rolling, rolling with slipping and detached
-    phases were studied.
-***** Mentor
-      Dr. A.K. Biswas, Physics, BITS-Pilani, Goa Campus
-*** Aug - Dec, 2007
-    *Simulation of class room acoustics*
-
-    The project involved simulation of class-room acoustics using the
-    method of images, in general, and the Allen-Berkeley algorithm in
-    particular, to obtain the reverberation time profile of a cuboid
-    shaped classroom and to identify the `acoustically' best
-    locations. MATLAB was used to write and simulate the code. 
-***** Mentor
-      Dr. Toby Joseph, Physics, BITS-Pilani, Goa Campus
-***** Team-mate
-      Ravitheja Tetali, B.E. (Hons.) Electronics & Instrumentation
-* Other Projects
+* Projects
 *** Emacs Org-mode
     I am an active contributor to Org-mode which is an Emacs package
     for keeping notes, maintaining ToDo lists, project planning, and
@@ -106,23 +73,37 @@
 
     - org2blog :: An org-mode based client, that can be used to post
                   directly to Wordpress blogs from within Org-mode.
+                  It has grown to be quite a popular tool, and has
+                  been liked by all the people who have tried it.
+                  (/Emacs-Lisp/)
     - Pandoc :: Pandoc is a swiss-army knife, to convert files from
-                one markup format into another. I added org-mode as
-                one of the output formats to it.
+                one markup format into another.  I added org-mode as
+                one of the output formats to it.  (/Haskell/)
     - org-ghi :: Org-mode can be used to keep ToDo lists; and each bug
                  or issue in your code, can be considered a ToDo
-                 item. org-ghi provides an interface between GitHub
-                 Issues and Org-mode.
+                 item.  org-ghi provides an interface between GitHub
+                 Issues and Org-mode.  (/Emacs-Lisp/)
     - gollum :: Gollum is the git-powered wiki system that is used in
-                every GitHub Wiki. I have added org-mode support for
-                the visual editor of gollum. 
+                every GitHub Wiki.  I have added org-mode support for
+                the visual editor of gollum.  (/Javascript/)
 *** GetHub
     GetHub is a Chrome extension that displays desktop notifications
-    for new updates in your Github NewsFeed.
+    for new updates in your GitHub NewsFeed.  (/Javascript/)
+*** V-Block
+    An Android app/hack that lets a user block calls from unwanted
+    numbers.  The USP of this app is that it allows the users, to
+    share the "bad" numbers with each other through Google docs.  This
+    app was written during a hack night and was adjudged the best
+    hack.  (/Python/)
+*** UG Projects
+    Worked on projects like Simulation of Class-room acoustics, Study
+    of phase transitions in mechanical models and Designing a room
+    status manager using an 8051. 
+
 * Technical Skills
 *** Languages & Libraries
-    - Proficient :: Python (Numpy, Scipy, Matplotlib), Emacs Lisp,
-                    Matlab, C, Bash, HTML, Javascript, CSS
+    - Proficient :: Python (Numpy, Scipy, Matplotlib), Emacs Lisp, C,
+                    Bash, HTML, Javascript, CSS
     - Learning :: Haskell, C++, OpenCV, CMU Sphinx
 *** Authoring
     - Text :: Org-mode, LaTeX, reStructured Text, Emacs
@@ -132,27 +113,12 @@
 *** Sys Admin
     Good experience with system administration on Debian based systems
     and Bash scripting.
-*** Course Design
-    Course design and Content development based on instructional
-    design principles. 
-
-* Publications and Paper Presentations
-  - M.Deepa, N. Bahadur, A.K. Srivastava, P. Chaganti, K.N. Sood,
-    ``Optical properties and mechanical characteristics of transperent
-    nanostructured $Zn_{1-x}Mn_{x}O$ thin films'', \emph{Jour. of
-    Phy. and Chem. of Solids}, 70 (2009), 291-297
-  - Delivered a beginner level [[https://github.com/punchagan/talks/blob/master/scipy.in-2010/slides/outline.pdf?raw=true][talk]] at Scipy.in 2010 on Image
-    Processing, to get beginners enthused about Python and using it
-    for Image Processing. 
-  - Conducted [[https://github.com/punchagan/talks/blob/master/gnunify-2010/slides/gnunify-scipy.pdf?raw=true][workshop]] on Image Processing using SciPy at Gnunify 2010
-
-
 * Personal Information
 *** Date of Birth
     15^{th} October, 1987
 *** Address
     {{{address}}}
-*** Phone   
+*** Phone
     {{{phone}}}
 *** E-mail
     [[mailto:punchagan@muse-amuse.in][punchagan@muse-amuse.in]]
@@ -162,3 +128,19 @@
     https://github.com/punchagan   
 
 
+
+* References
+  1. Prof. Prabhu Ramachandran
+     
+     Principal Investigator, /FOSSEE/, IIT-Bombay
+
+     - E-mail: [[mailto:prabhu@fossee.in][prabhu (at) fossee (dot) in]]
+     - Phone: 09833687121
+
+  2. Mr. Asokan Pichai
+     
+     Consultant, /FOSSEE/
+
+     - E-mail: [[mailto:pasokan@fossee.in][pasokan (at) fossee (dot) in]]
+     - Phone: 09840911857
+     

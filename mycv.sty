@@ -3,8 +3,6 @@
  %A Few Useful Packages
 \usepackage{url}
 \usepackage{titlesec} %custom section
-\usepackage{enumitem} %custom lists
-\usepackage{calc}
 
 \usepackage{color}
 \usepackage{hyperref}
@@ -93,7 +91,16 @@
       \setlength{\parskip}{0in}
       \setlength{\topsep}{0in} 
       \setlength{\partopsep}{0in}
-    \setlength{\leftmargin}{0.1in}}}{\end{list}}
+      \setlength{\leftmargin}{0.1in}}}{\end{list}}
 
 
+\renewenvironment{enumerate}%
+  {\begin{list}{\arabic{enumi}.}%
+      {\topsep=0in
+       \itemsep=0in
+       \parsep=0in
+       \partopsep=0in
+       \leftmargin=0in
+       \usecounter{enumi}}%
+   }{\end{list}}
 
