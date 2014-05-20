@@ -1,4 +1,5 @@
 #+OPTIONS: toc:nil H:10
+#+STARTUP: odd
 
 #+LaTeX_HEADER: \usepackage{mycv}
 
@@ -16,7 +17,7 @@
 
     My work in this team involves design and development of learning
     material for, and training of teachers and students in the area of
-    Python for Scientific Computing.  
+    Python for Scientific Computing.
 
     I have been involved in development of the course material for an
     introductory course on Software Tools, Techniques and Practices
@@ -98,7 +99,7 @@
 *** UG Projects
     Worked on projects like Simulation of Class-room acoustics, Study
     of phase transitions in mechanical models and Designing a room
-    status manager using an 8051. 
+    status manager using an 8051.
 
 * Technical Skills
 *** Languages & Libraries
@@ -125,22 +126,4 @@
 *** Blog
     http://punchagan.muse-amuse.in
 *** Code
-    https://github.com/punchagan   
-
-
-
-* References
-  1. Prof. Prabhu Ramachandran
-     
-     Principal Investigator, /FOSSEE/, IIT-Bombay
-
-     - E-mail: [[mailto:prabhu@fossee.in][prabhu (at) fossee (dot) in]]
-     - Phone: 09833687121
-
-  2. Mr. Asokan Pichai
-     
-     Consultant, /FOSSEE/
-
-     - E-mail: [[mailto:pasokan@fossee.in][pasokan (at) fossee (dot) in]]
-     - Phone: 09840911857
-     
+    https://github.com/punchagan
