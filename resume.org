@@ -1,129 +1,47 @@
 #+OPTIONS: toc:nil H:10
-#+STARTUP: odd
-
+#+STARTUP: odd hidestars
+#+INCLUDE: personal-info.org
 #+LaTeX_HEADER: \usepackage{mycv}
+#+TITLE: {{{FULL}}}
 
-#+MACRO: first  Puneeth
-#+MACRO: last   CHAGANTI
-#+MACRO: full {{{first}}} {{{last}}}
-#+MACRO: address  \#215 Tansa House, IIT-B, Powai, Mumbai - 400076
-#+MACRO: phone  +91 996 757 6569
+* Experience
+*** TODO Jun 2014 - Aug 2014
+    *Hacker School*, Student
+*** Sep 2011 - May 2014
+    *Enthought*, Software Developer
 
-#+TITLE: Puneeth Chaganti
+    Worked on building a Qt (PySide) based development environment for
+    Scientists and Engineers.  Also helped in the initial stages of building an
+    application deployment platform for Python based apps.  Gained some taste
+    for good design and software engineering, while doing this.
 
-* Work Experience
-*** July 2009 - /Present/
-    *Research Associate*, [[http://fossee.in][FOSSEE]], IIT-Bombay
+*** Jul 2009 - Jul 2011
+    *[[http://fossee.in][FOSSEE]], IIT Bombay*, Research Associate
 
-    My work in this team involves design and development of learning
-    material for, and training of teachers and students in the area of
-    Python for Scientific Computing.
+    Designed and developed material & helped conduct workshops to train college
+    level teachers and students in using Python for Scientific Computing.
 
-    I have been involved in development of the course material for an
-    introductory course on Software Tools, Techniques and Practices
-    for Scientists and Engineers, which is going to be delivered at
-    various places including IIT-B, beginning next semester.
-
-    I have also ported some Control Engineering code from MATLAB to
-    Python.  I have also been involved in the initial set-up &
-    maintenance of the server.
 *** Jan - Jun, 2009
-    *Intern*, STMicroelectronics India Pvt. Ltd., Bangalore
+    *STMicroelectronics*, Intern
 
-    Developed a new sub-system for automated testing of a few of the
-    processes, for testing the software on a DigitalTV Chip.  The
-    sub-system abstracts out the actual function calls for the tests,
-    and allows the tests to be conducted by anybody.  This system
-    provides a scope for future automation of the testing process.
+    Developed a new sub-system for automated testing of a few of the processes,
+    for testing the software on a DigitalTV Chip.  This system would, in
+    future, improve the amount of automation in the testing process.
 
 *** May - Jul 2007
-    *Summer Intern*, National Physical Laboratory, New Delhi
+    *NPL*, Intern
 
-    Fabricated transparent nano-structured transparent ZnO thin films,
-    doped with MnO, using the Sol-Gel spin coating process.  Also
-    carried out characterization of the films using various techniques
-    like TEM, SEM, X-Ray diffraction and film stress measurement.
+    Helped fabrication and optical & mechanical characterization of transparent
+    nano-structured $Zn_{1-x}Mn_xO$ thin films.
+* TODO Projects
 * Education
 *** 2005 - 2009
     *B.E.(Hons.), Electrical and Electronics*
 ***** Institution
       Birla Institute of Technology and Science - Pilani, Goa Campus
-***** Score
-      8.31 out of 10 (CGPA)
-*** 2005
-    *Intermediate Public Examination*, Board of Intermediate
-     Education, A.P.
-***** Institution
-      Ratna Junior College, Hyderabad
-***** Score
-      94.2%
-*** 2003
-    *All India Secondary Certificate Examination*, CBSE
-***** Institution
-      D.A.V Public School, Hyderabad
-***** Score
-      94.8%
-* Projects
-*** Emacs Org-mode
-    I am an active contributor to Org-mode which is an Emacs package
-    for keeping notes, maintaining ToDo lists, project planning, and
-    authoring with a fast and effective plain-text system.
-
-    Apart from patches directly to Org-mode, I have made some
-    contributions to the "eco-system" of org-mode. \\
-
-    - org2blog :: An org-mode based client, that can be used to post
-                  directly to Wordpress blogs from within Org-mode.
-                  It has grown to be quite a popular tool, and has
-                  been liked by all the people who have tried it.
-                  (/Emacs-Lisp/)
-    - Pandoc :: Pandoc is a swiss-army knife, to convert files from
-                one markup format into another.  I added org-mode as
-                one of the output formats to it.  (/Haskell/)
-    - org-ghi :: Org-mode can be used to keep ToDo lists; and each bug
-                 or issue in your code, can be considered a ToDo
-                 item.  org-ghi provides an interface between GitHub
-                 Issues and Org-mode.  (/Emacs-Lisp/)
-    - gollum :: Gollum is the git-powered wiki system that is used in
-                every GitHub Wiki.  I have added org-mode support for
-                the visual editor of gollum.  (/Javascript/)
-*** GetHub
-    GetHub is a Chrome extension that displays desktop notifications
-    for new updates in your GitHub NewsFeed.  (/Javascript/)
-*** V-Block
-    An Android app/hack that lets a user block calls from unwanted
-    numbers.  The USP of this app is that it allows the users, to
-    share the "bad" numbers with each other through Google docs.  This
-    app was written during a hack night and was adjudged the best
-    hack.  (/Python/)
-*** UG Projects
-    Worked on projects like Simulation of Class-room acoustics, Study
-    of phase transitions in mechanical models and Designing a room
-    status manager using an 8051.
-
+***** CGPA
+      8.31/10
 * Technical Skills
 *** Languages & Libraries
-    - Proficient :: Python (Numpy, Scipy, Matplotlib), Emacs Lisp, C,
-                    Bash, HTML, Javascript, CSS
-    - Learning :: Haskell, C++, OpenCV, CMU Sphinx
-*** Authoring
-    - Text :: Org-mode, LaTeX, reStructured Text, Emacs
-    - Graphics :: Gimp, Inkscape
-*** Version Control
-    Git, Mercurial
-*** Sys Admin
-    Good experience with system administration on Debian based systems
-    and Bash scripting.
-* Personal Information
-*** Date of Birth
-    15^{th} October, 1987
-*** Address
-    {{{address}}}
-*** Phone
-    {{{phone}}}
-*** E-mail
-    [[mailto:punchagan@muse-amuse.in][punchagan@muse-amuse.in]]
-*** Blog
-    http://punchagan.muse-amuse.in
-*** Code
-    https://github.com/punchagan
+    - Most comfortable with :: Python, Javascript, Emacs Lisp, HTML/CSS, Git, Linux
+    - Have worked with :: C, R, Octave, Haskell, Mercurial, Bash
