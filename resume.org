@@ -1,47 +1,64 @@
-#+OPTIONS: toc:nil H:10
-#+STARTUP: odd hidestars
+#+OPTIONS: toc:nil H:10 tex:t
+#+STARTUP: odd hidestars indent
 #+INCLUDE: personal-info.org
 #+LaTeX_HEADER: \usepackage{mycv}
-#+TITLE: {{{FULL}}}
+#+LaTeX_HEADER: \hypersetup{hidelinks}
+#+LaTeX_CLASS_OPTIONS: [letterpaper]
+
+{{{HEADER}}}
 
 * Experience
-*** TODO Jun 2014 - Aug 2014
-    *Hacker School*, Student
-*** Sep 2011 - May 2014
-    *Enthought*, Software Developer
+*** Student at Hacker School
+***** Jun - Aug, 2014
+Hacker School is a collaborative, self-directed, 12-week programming retreat. I
+spent my time getting more familiar with functional programming, the internals
+of Python, and building things using embedded hardware.
 
-    Worked on building a Qt (PySide) based development environment for
-    Scientists and Engineers.  Also helped in the initial stages of building an
-    application deployment platform for Python based apps.  Gained some taste
-    for good design and software engineering, while doing this.
+*** Software Developer at Enthought
+***** Sep 2011 - May 2014
+Helped build a Qt (PySide) based development environment for
+Scientists/Engineers.  Also helped develop the initial design and build the
+first cut of an application deployment platform for Python based apps.  Gained
+some taste for good design, while working here.
 
-*** Jul 2009 - Jul 2011
-    *[[http://fossee.in][FOSSEE]], IIT Bombay*, Research Associate
+*** Research Associate at [[http://fossee.in][FOSSEE]], IIT Bombay
+***** Jul 2009 - Jul 2011
+Designed and developed material & helped conduct workshops to train college
+level teachers and students in using Python for Scientific Computing.
 
-    Designed and developed material & helped conduct workshops to train college
-    level teachers and students in using Python for Scientific Computing.
+*** Intern at STMicroelectronics
+***** Jan - Jun, 2009
+Developed a new sub-system for automated testing of a few of the processes, for
+testing the software on a DigitalTV Chip.  This system would, in future,
+improve the amount of automation in the testing process.
 
-*** Jan - Jun, 2009
-    *STMicroelectronics*, Intern
+*** Intern at National Physical Labs
+***** May - Jul, 2007
+Helped in the fabrication and optical & mechanical characterization of
+transparent nano-structured $Zn_{1-x}Mn_xO$ thin films.
+* Projects
+*** cinspect
+~cinspect~ is an attempt to provide ~inspect~-like inspection for Python's
+built-ins and extension modules written in C.  I built a tool to generate
+indexes from the C sources of Python (or an extension module) using ~libclang~,
+which can later be queried using an ~inspect~-like API.
+*** LEDBot
+A bot that receives messages with text and images, and displays them on a
+LED screen.  Helped improve design of the code for extensibility and
+improved performance while on embedded hardware.
+*** crumb
+A disqus-like commenting system that (ab)uses GitHub issues as the
+"database". It is an experimental hack, but can be used on real sites if
+the users are all expected to have GitHub accounts.
 
-    Developed a new sub-system for automated testing of a few of the processes,
-    for testing the software on a DigitalTV Chip.  This system would, in
-    future, improve the amount of automation in the testing process.
-
-*** May - Jul 2007
-    *NPL*, Intern
-
-    Helped fabrication and optical & mechanical characterization of transparent
-    nano-structured $Zn_{1-x}Mn_xO$ thin films.
-* TODO Projects
+*** org2blog
+An ~Emacs~ minor mode for blogging from ~org-mode~ to Wordpress that
+makes publishing and managing blog posts extremely easy, and hence loved
+by many users.
 * Education
-*** 2005 - 2009
-    *B.E.(Hons.), Electrical and Electronics*
-***** Institution
-      Birla Institute of Technology and Science - Pilani, Goa Campus
-***** CGPA
-      8.31/10
-* Technical Skills
-*** Languages & Libraries
-    - Most comfortable with :: Python, Javascript, Emacs Lisp, HTML/CSS, Git, Linux
-    - Have worked with :: C, R, Octave, Haskell, Mercurial, Bash
+*** BITS Pilani, Goa Campus, India
+***** Aug 2005 - Jun 2009
+/B.E.(Hons.), Electrical and Electronics/, GPA: 8.31/10
+* Skills
+  - Most comfortable with :: Python, Javascript, Emacs Lisp, HTML/CSS, Git, Linux
+  - Have worked with :: C, R, Octave, Haskell, Bash, LaTeX, Mercurial
