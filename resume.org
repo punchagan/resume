@@ -1,12 +1,9 @@
 #+OPTIONS: toc:nil H:10
-#+LATEX_HEADER: \def \email {{{{email}}}}
-#+LATEX_HEADER: \def \phone {{{{phone}}}}
-#+LATEX_HEADER: \def \url {{{{url}}}}
+#+LATEX_HEADER: \def \email {eliotbaker@gmail.com}
+#+LATEX_HEADER: \def \phone {215.740.1960}
+#+LATEX_HEADER: \def \url {http://eliotbaker.com}
 #+LaTeX_HEADER: \usepackage{mycv}
-
-#+MACRO: phone  215.740.1960
-#+MACRO: email eliotbaker@gmail.com
-#+MACRO: url http://eliotbaker.com
+#+LaTeX_CLASS_OPTIONS: [10pt]
 
 #+TITLE: ELIOT BAKER
 
@@ -73,9 +70,6 @@
 
 *** Tools
     | Emacs | vim |  git | mercurial |
-
-    #*** Platorms
-    #|iOS|
 
 
 * Activities
