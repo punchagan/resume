@@ -9,21 +9,21 @@
 
 * Objective
 ** /Present/
-   To contribute to a team as a software engineer focusing on
+   To contribute to an agile team as a software engineer focusing on
    development of mobile web applications utilizing the latest HTML5,
-   CSS3, and JavaScript frameworks and libraries.
+   CSS3, and JavaScript libraries and frameworks.
 * Experience
-** 2013 -- 2014
-   *Software Engineer*, [[LessThan3][http://lessthan3.com]], San Fransisco, CA
+** December 2013 -- November 2014
+   *Software Engineer*, [[http://lessthan3.com][LessThan3]], San Francisco, CA
    - Developed features for multiple products in full-stack coffeescript environment. 
    - Created admin dashboard tools for a live-event CMS used by Ultra Music Festival, EDC, HARD Summer, and Insomniac among others.
    - Developed client-side interfaces using coffeescript, backbone, stylus, teacup, history api, and jQuery.
    - Helped build documentation and tutorials for future developers on the platform.
-   - Built back-end interfaces using node.js, express, socket.io, coffeescript, mongodb, and a variety of 3rd party APIs
+   - Built back-end interfaces using node.js, express, socket.io, coffeescript, mongodb, and other 3rd party APIs
 
 ** April 2013 -- November 2013
    *Web Application Consultant*, Philadelphia, PA
-   - Designed client web interfaces using Twitter bootstrap HTML and CSS.
+   - Designed client web interfaces using Twitter bootstrap along side HTML and CSS.
    - Developed web application functionilty with jQuery parsing JSON data.
    - Managed data to implement MVC paradigms in an agile development environment versioned by git.
    - Generated dynamic PDF documents with third party libraries parsing xml input data.
@@ -55,20 +55,19 @@
 
 * Skills & Technology
 ** Languages
-   |  *Javascript* | *Python* | *PHP* | *HTML* | *CSS* | C/C++ | Objective-C | C# | Erlang   | Java  |
+   |  *Javascript* | *CoffeeScript* | *HTML5* | *CSS3* | *Python* | PHP | C/C++ | Objective-C | Erlang |
 *** Framworks
-    | *jQuery* | *Twitter Bootstrap* | backbone.js | socket.io | Express | Flask| Zend Framework|
-*** Storage
-    | *MySQL*     | SQLite | Core Data | XML | JSON | Redis | Mongodb |
+    | *express* | *stylus* | *teacup* | *backbone.js* | socket.io | Twitter Bootstrap| Flask (python)|
+*** Libraries
+    | *jQuery* | *underscore* | jquery-cycle2 | MixItUp | jquery-fancybox | fontello | chosen |
+*** Data
+    | *MySQL* | *MongoDB* | redis | SQLite | JSON | 
 *** Servers
-    | Linux(Debian) | Linux(CentOS) | FreeBSD | nginx | node.js |
-*** Protocols
-    | TCP/IP | HTTP | Websockets | XMPP |
+    | *Linux(Debian)* | Linux(CentOS) | FreeBSD | nginx | node.js |
 *** Methodology
-    | REST | TDD | MVC | SOAP | AJAX |
-
+    | *REST* | *MVC* | AJAX | SOAP |
 *** Tools
-    | Emacs | vim |  git | mercurial |
+    | *vim* | *git* | *npm* | *bower* | *grunt* | emacs | mercurial |
 
 
 * Activities
