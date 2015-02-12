@@ -9,47 +9,46 @@
 
 * Objective
 ** /Present/
-   To obtain a software engineering opportunity focused on design and
-   development of web based interfaces utilizing agile development
-   methodology in a *nix environment.
+   To contribute to a team as a software engineer focusing on
+   development of mobile web applications utilizing the latest HTML5,
+   CSS3, and JavaScript frameworks and libraries.
 * Experience
-** April 2013 -- /Present/
+** 2013 -- 2014
+   *Software Engineer*, [[LessThan3][http://lessthan3.com]], San Fransisco, CA
+   - Developed features for multiple products in full-stack coffeescript environment. 
+   - Created admin dashboard tools for a live-event CMS used by Ultra Music Festival, EDC, HARD Summer, and Insomniac among others.
+   - Developed client-side interfaces using coffeescript, backbone, stylus, teacup, history api, and jQuery.
+   - Helped build documentation and tutorials for future developers on the platform.
+   - Built back-end interfaces using node.js, express, socket.io, coffeescript, mongodb, and a variety of 3rd party APIs
+
+** April 2013 -- November 2013
    *Web Application Consultant*, Philadelphia, PA
-   - Designed client web interfaces using Twitter bootstrap and PHP with mySQL to JSON parsed via jQuery.
-   - Utilized Zend Framework 2 in formatting model data within views as needed by the client’s requirements.
+   - Designed client web interfaces using Twitter bootstrap HTML and CSS.
+   - Developed web application functionilty with jQuery parsing JSON data.
    - Managed data to implement MVC paradigms in an agile development environment versioned by git.
    - Generated dynamic PDF documents with third party libraries parsing xml input data.
    - Created renderings of data sets in tables using DataTables as well as pie charts with HighCharts and jqPlot.
-   - Interacted and met with clients to plan features and help debug
-     specific application issues.
 
 ** November 2011 -- April 2013
    *Software Engineer*, [[http://colorquick.com][ColorQuick]], Pennsauken, NJ
-   - Developed web interfaces in python and PHP using Twitter bootstrap
-     to visualize data sets.
+   - Developed web interfaces in HTML/CSS using Twitter bootstrap
+     along side JavaScript and jQuery.
    - Adopted REST API paradigm for interfacing in real time with legacy applications over HTTP.
-   - Managed over 5 servers running mySQL, nginx, and git on CentOS Linux.
-   - Configured server applications to be scheduled for times and monitored running applications.
+   - Managed servers running mySQL, nginx, and git on CentOS Linux.
 
 ** May 2009 -- November 2011
    *Independent Contractor*, New Orleans, LA
    - Installed systems for Dell and HP for a variety of client sites and site sizes.
-   - Eliminated spyware or virus issues using a variety of software.
-   - Reformatted/Reimaged and configured Windows on desktop and laptop machines.
    - Configured medium sized wired and wireless LANs with a strong understanding of TCP/IP.
 
 ** May 2008 -- August 2008
    *Technician Senior Assistant (Co-op)*, [[http://csc.com][Computer Science Corporation]], Marlton, NJ
    - Applied computer science principles to automate business processes.
-   - Created automated budget through use of in house tools.
    - Automated ticket retrieval and updates to increase efficiency by over 300%.
-   - Developed alternative tool to analyze SAP roles to expand its capabilities.
+
 ** May 2007 -- August 2007
    *Software Engineer Co-op*, [[http://ibm.com ][IBM]], West Chester, PA
-   - Designed Java portlets using IBM API to keep a local site record of employee information.
-   - Implemented Lotus Domino versions 6.5.x, 7.0.x, and 8 Beta on i5 and zLinux platforms.
-   - Installed fix packs and hot fixes over Lotus Domino installs on i5 and zLinux platforms.
-#   - Configured static Lotus Domino servers on i5 and virtual zLinux multiboot on Z/VM.
+   - Developed Java webapp using IBM API to keep a local site record of employee information.
 * Education
 ** 2005 -- 2009
    *B.S. Computer Engineering*, Pennsylvania State University, Cumulative GPA: 3.2/4.0
@@ -74,53 +73,9 @@
 
 * Activities
 ** 2013 -- Present
-   *Philadelphia JavaScript Developers Meetup*
-   - Attended presentations on developing with AngularJS as well as
-     networked with other developers.
+   *JavaScript Developers Meetup*
 ** 2013 -- Present
-   *Philadelphia Node.js Meetup*
-   - Attended lightning talk sessions and networked with other node developers.
+   *Node.js Meetup*
 ** 2012
    *[[https://github.com/gcs272/Pots-Pans][Pots-N-Pans]]*, Hack the Change, Second Place
    - An sms based alerting system for developing nations location based subscription.
-   - Utilizing a python message router backed by redis storage via Twilio APIs.
-** 2011 -- Present
-   *[[http://www.meetup.com/philly-tech/][Philly Tech Meetup]]*, Local Startups and Presentations
-   - Attended various pitch presentations including local startups as well as tech presentations including Basho's riak data store.
-** 2011 -- Present
-   *[[http://www.meetup.com/phillypug/][PhillyPUG]]*, Python User Group
-   - Educated via presentations held by local Pythonists presenting topics such as pandas big data store as real world application of computer vision frameworks.
-** 2007 -- Present
-   *Eta Kappa Nu Epsilon Chapter*, Member
-   - Partcipated in tutoring sessions for technical engineering classes.
-** 2006 -- 2008
-   *Penn State Engineering House*
-   - Engaged in scheduled activities with other resident engineers as well as developing professional and technical skills.
-* Additional Relevant Experience
-** October 2005 -- May 2009
-   *Manager*, [[http://www.rescom.psu.edu/][Penn State Residential Computing]], State College, PA
-   - Instructed technicians in computer repair techniques and ensured all policies were followed.
-   - Responded to client questions via phone, email, and face to face conversations.
-   - Configured and maintained stability and security among students’ personal computers before being promoted to manager.
-
-** May 2006 -- August 2006
-   *Information Technology Intern*, [[http://www.preit.com/][Pennsylvania Real Estate]], Philadelphia, PA
-   - Created and edited manuals currently in use outlining the Avaya Softphone, My.Preit.com payroll information, and Palm Treos.
-   - Deployed images to newly received computers using Symantec Ghost.
-   - Utilized active directory and Microsoft SMS to remotely to support the issues of users.
-   - Functioned as a liaison between the IT department and its users.
-** May 2010 – October 2011
-   *Social Media Personal Project*, iPhone Client
-   - Designed user interface to incorporate Facebook, Twitter, Google Buzz, and Foursquare.
-   - Captured camera and camera roll images and sent these to server for storage.
-   - Leveraged GPS hardware to send relevant location data to server.
-   - Stored individual user data cache on phone and synchronized with server upon login.
-   - Parsed JSON data in background thread while fetching data on main thread.
-   - Communicated to server through TCP/IP replacing REST interface.
-   *Social Media Personal Project*, Backend API
-   - Created interfaces to communicate with Facebook, Twitter, Google Buzz, and Foursquare.
-   - Designed DB layout to store user contact and information sharing data.
-   - Prototyped server infrastructure in PHP, storing data in MySQL database.
-   - Reworked prototype into erlang to support real time messaging and updates system.
-   - Developed prototype REST then custom streaming API to communicate
-     with iOS client.
