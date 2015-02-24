@@ -9,7 +9,7 @@
 
 * Objective
 ** /Present/
-   To contribute to an agile team as a software engineer focusing on
+   To contribute as a software engineer to an agile team focusing on
    development of resposive web applications utilizing the latest HTML5,
    CSS3, and JavaScript libraries and frameworks.
 * Experience
@@ -23,11 +23,11 @@
 
 ** April 2013 -- November 2013
    *Web Application Consultant*, Philadelphia, PA
-   - Designed client web interfaces using Twitter bootstrap along side HTML and CSS.
-   - Developed web application functionilty with jQuery parsing JSON data.
-   - Managed data to implement MVC paradigms in an agile development environment versioned by git.
-   - Generated dynamic PDF documents with third party libraries parsing xml input data.
+   - Developed web applications using Twitter bootstrap along side
+     HTML and CSS with jQuery parsing JSON.
+   - Managed codde to implement MVC paradigms in an agile development environment versioned by git.
    - Created renderings of data sets in tables using DataTables as well as pie charts with HighCharts and jqPlot.
+   - Generated dynamic PDF documents with third party libraries parsing xml input data.
 
 ** November 2011 -- April 2013
    *Software Engineer*, [[http://colorquick.com][ColorQuick]], Pennsauken, NJ
