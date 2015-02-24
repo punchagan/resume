@@ -10,7 +10,7 @@
 * Objective
 ** /Present/
    To contribute to an agile team as a software engineer focusing on
-   development of mobile web applications utilizing the latest HTML5,
+   development of resposive web applications utilizing the latest HTML5,
    CSS3, and JavaScript libraries and frameworks.
 * Experience
 ** December 2013 -- November 2014
@@ -37,18 +37,12 @@
    - Managed servers running mySQL, nginx, and git on CentOS Linux.
 
 ** May 2009 -- November 2011
-   *Independent Contractor*, New Orleans, LA
-   - Installed systems for Dell and HP for a variety of client sites and site sizes.
-   - Configured medium sized wired and wireless LANs with a strong understanding of TCP/IP.
+   *Freelance Web Developer*, New Orleans, LA
+   - Developed client website in HTML/CSS/JavaScript along side
+     templates.
+   - Customized WordPress installation as site with blog edited via CMS.
+   - Configured SEO tags and enabled tracking via Google Analytics.
 
-** May 2008 -- August 2008
-   *Technician Senior Assistant (Co-op)*, [[http://csc.com][Computer Science Corporation]], Marlton, NJ
-   - Applied computer science principles to automate business processes.
-   - Automated ticket retrieval and updates to increase efficiency by over 300%.
-
-** May 2007 -- August 2007
-   *Software Engineer Co-op*, [[http://ibm.com ][IBM]], West Chester, PA
-   - Developed Java webapp using IBM API to keep a local site record of employee information.
 * Education
 ** 2005 -- 2009
    *B.S. Computer Engineering*, Pennsylvania State University, Cumulative GPA: 3.2/4.0
@@ -65,7 +59,7 @@
 *** Servers
     | *Linux(Debian)* | Linux(CentOS) | FreeBSD | nginx | node.js |
 *** Methodology
-    | *REST* | *MVC* | AJAX | SOAP |
+    | *REST* | *MVC* | *AJAX* | SOAP |
 *** Tools
     | *vim* | *git* | *npm* | *bower* | *grunt* | emacs | mercurial |
 
