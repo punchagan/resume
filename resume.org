@@ -15,11 +15,12 @@
 * Experience
 ** December 2013 -- November 2014
    *Software Engineer*, [[http://lessthan3.com][LessThan3]], San Francisco, CA
-   - Developed features for multiple products in full-stack coffeescript environment. 
-   - Created admin dashboard tools for a live-event CMS used by Ultra Music Festival, EDC, HARD Summer, and Insomniac among others.
    - Developed client-side interfaces using coffeescript, backbone, stylus, teacup, history api, and jQuery.
-   - Helped build documentation and tutorials for future developers on the platform.
-   - Built back-end interfaces using node.js, express, socket.io, coffeescript, mongodb, and other 3rd party APIs
+   - Built back-end interfaces using node.js, express, coffeescript, mongodb, and other 3rd party APIs.
+   - Reviewed code via github pull requests with project managed in
+     github issues.
+   - Contributed to documentation and tutorials for future developers on the platform.
+   - Created admin dashboard tools for a live-event CMS used by Ultra Music Festival, EDC, HARD Summer, and Insomniac among others.
 
 ** April 2013 -- November 2013
    *Web Application Consultant*, Philadelphia, PA
@@ -49,26 +50,26 @@
 
 * Skills & Technology
 ** Languages
-   |  *Javascript* | *CoffeeScript* | *HTML5* | *CSS3* | *Python* | PHP | C/C++ | Objective-C | Erlang |
+   |  *Javascript* | *CoffeeScript* | *HTML5* | *CSS3* | Python | PHP | C/C++ | Objective-C | Erlang |
 *** Framworks
-    | *express* | *stylus* | *teacup* | *backbone.js* | socket.io | Twitter Bootstrap| Flask (python)|
+    | *express* | *stylus* | *teacup* | *jade* | *backbone.js* | socket.io | Twitter Bootstrap| Flask (python)|
 *** Libraries
     | *jQuery* | *underscore* | jquery-cycle2 | MixItUp | jquery-fancybox | fontello | chosen |
-*** Data
-    | *MySQL* | *MongoDB* | redis | SQLite | JSON | 
+*** Tools
+    | *vim* | *git* | *npm* | *bower* | *gulp* | *grunt* | emacs | mercurial |
 *** Servers
     | *Linux(Debian)* | Linux(CentOS) | FreeBSD | nginx | node.js |
+*** Data
+    | *MongoDB* | *MySQL* | redis | firebase | SQLite | JSON | 
 *** Methodology
     | *REST* | *MVC* | *AJAX* | SOAP |
-*** Tools
-    | *vim* | *git* | *npm* | *bower* | *grunt* | emacs | mercurial |
 
 
 * Activities
 ** 2013 -- Present
-   *JavaScript Developers Meetup*
+  *JavaScript Developers Meetup*
 ** 2013 -- Present
-   *Node.js Meetup*
-** 2012
-   *[[https://github.com/gcs272/Pots-Pans][Pots-N-Pans]]*, Hack the Change, Second Place
-   - An sms based alerting system for developing nations location based subscription.
+  *Node.js Meetup*
+# ** 2012
+#   *[[https://github.com/gcs272/Pots-Pans][Pots-N-Pans]]*, Hack the Change, Second Place
+#   - An sms based alerting system for developing nations location based subscription.
