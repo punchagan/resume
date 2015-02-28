@@ -3,7 +3,7 @@
 #+LATEX_HEADER: \def \phone {215.740.1960}
 #+LATEX_HEADER: \def \url {http://eliotbaker.com}
 #+LaTeX_HEADER: \usepackage{mycv}
-#+LaTeX_CLASS_OPTIONS: [10pt]
+#+LaTeX_CLASS_OPTIONS: [10.5pt]
 
 #+TITLE: ELIOT BAKER
 
@@ -16,7 +16,10 @@
 ** December 2013 -- November 2014
    *Software Engineer*, [[http://lessthan3.com][LessThan3]], San Francisco, CA
    - Developed client-side interfaces using coffeescript, backbone, stylus, teacup, history api, and jQuery.
-   - Built back-end interfaces using node.js, express, coffeescript, mongodb, and other 3rd party APIs.
+   - Leveraged 3rd party API's including Instagram, Twitter,
+     and Facebook for social media integration.
+   - Built back-end interfaces using node.js, express, mongodb, and
+     firebase.
    - Reviewed code via github pull requests with project managed in
      github issues.
    - Contributed to documentation and tutorials for future developers on the platform.
