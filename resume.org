@@ -16,8 +16,8 @@
 ** December 2013 -- November 2014
    *Software Engineer*, [[http://lessthan3.com][LessThan3]], San Francisco, CA
    - Developed client-side interfaces using coffeescript, backbone, stylus, teacup, history api, and jQuery.
-   - Leveraged 3rd party API's including Instagram, Twitter,
-     and Facebook for social media integration.
+   - Leveraged 3rd party API's including Instagram, Twitter, Youtube, Soundcloud,
+     and Facebook.
    - Built back-end interfaces using node.js, express, mongodb, and
      firebase.
    - Reviewed code via github pull requests with project managed in
@@ -73,6 +73,7 @@
   *JavaScript Developers Meetup*
 ** 2013 -- Present
   *Node.js Meetup*
+
 # ** 2012
 #   *[[https://github.com/gcs272/Pots-Pans][Pots-N-Pans]]*, Hack the Change, Second Place
 #   - An sms based alerting system for developing nations location based subscription.
