@@ -10,7 +10,7 @@
 * Objective
 ** /Present/
    To contribute as a software engineer to an agile team focusing on
-   development of resposive web applications utilizing the latest HTML5,
+   development of responsive web applications utilizing the latest HTML5,
    CSS3, and JavaScript libraries and frameworks.
 * Experience
 ** December 2013 -- November 2014
@@ -29,7 +29,7 @@
    *Web Application Consultant*, Philadelphia, PA
    - Developed web applications using Twitter bootstrap along side
      HTML and CSS with jQuery parsing JSON.
-   - Managed codde to implement MVC paradigms in an agile development environment versioned by git.
+   - Managed code to implement MVC paradigms in an agile development environment versioned by git.
    - Created renderings of data sets in tables using DataTables as well as pie charts with HighCharts and jqPlot.
    - Generated dynamic PDF documents with third party libraries parsing xml input data.
 
