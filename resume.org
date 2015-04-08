@@ -3,7 +3,7 @@
 #+LATEX_HEADER: \def \phone {215.740.1960}
 #+LATEX_HEADER: \def \url {http://eliotbaker.com}
 #+LaTeX_HEADER: \usepackage{mycv}
-#+LaTeX_CLASS_OPTIONS: [10.5pt]
+#+LaTeX_CLASS_OPTIONS: [10pt]
 
 #+TITLE: ELIOT BAKER
 
@@ -27,25 +27,22 @@
 
 ** April 2013 -- November 2013
    *Web Application Consultant*, Philadelphia, PA
-   - Developed web applications using Twitter bootstrap along side
-     HTML and CSS with jQuery parsing JSON.
-   - Managed code to implement MVC paradigms in an agile development environment versioned by git.
+   - Developed web applications using Twitter bootstrap along side HTML/CSS with jQuery parsing JSON.
+   - Managed code to implement MVC paradigms in a PHP Zend Framework environment versioned by git.
    - Created renderings of data sets in tables using DataTables as well as pie charts with HighCharts and jqPlot.
-   - Generated dynamic PDF documents with third party libraries parsing xml input data.
+   - Generated dynamic PDF documents with third party libraries parsing XML input data.
 
 ** November 2011 -- April 2013
    *Software Engineer*, [[http://colorquick.com][ColorQuick]], Pennsauken, NJ
-   - Developed web interfaces in HTML/CSS using Twitter bootstrap
-     along side JavaScript and jQuery.
+   - Developed web interfaces in HTML/CSS/PHP using Twitter bootstrap along side JavaScript and jQuery.
    - Adopted REST API paradigm for interfacing in real time with legacy applications over HTTP.
    - Managed servers running mySQL, nginx, and git on CentOS Linux.
 
 ** May 2009 -- November 2011
    *Freelance Web Developer*, New Orleans, LA
-   - Developed client website in HTML/CSS/JavaScript along side
-     templates.
-   - Customized WordPress installation as site with blog edited via CMS.
-   - Configured SEO tags and enabled tracking via Google Analytics.
+   - Developed client websites in HTML/CSS/JavaScript leveraging existing templates.
+   - Customized WordPress installation as site and blog with content administration.
+   - Configured on page SEO and enabled tracking via Google Analytics.
 
 * Education
 ** 2005 -- 2009
@@ -74,6 +71,10 @@
 ** 2013 -- Present
   *Node.js Meetup*
 
+# ** 2015 -- Present
+#   *Ember.js Meetup*
+# ** 2015 -- Present
+#   *Angular.js Meetup*
 # ** 2012
 #   *[[https://github.com/gcs272/Pots-Pans][Pots-N-Pans]]*, Hack the Change, Second Place
 #   - An sms based alerting system for developing nations location based subscription.
