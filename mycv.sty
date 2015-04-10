@@ -16,7 +16,6 @@
 %% Custom bullet
 \usepackage{xcolor}
 
-
 \usepackage{color}
 \usepackage{hyperref}
 \definecolor{linkcolour}{rgb}{0,0.2,0.6}
@@ -26,6 +25,8 @@
 \definecolor{sectioncolor}{rgb}{0.35,0.45,0.55}
 
 \pagestyle{empty} % plain
+\usepackage[margin=1.5in]{geometry}
+\usepackage[none]{hyphenat}
 
 % Header spacing
 \voffset -0.5in
@@ -35,10 +36,10 @@
 
 % Footer spacing
 \footskip 0pt 
-\textheight 9.5in
+\textheight 10in
 
 % Sideways
-\textwidth 6in
+\textwidth 6.5in
 
 %% Title
 \renewcommand*{\maketitle}{%
@@ -110,8 +111,6 @@
 {\hspace\labelsep\scshape{#1 --}}
 
 \renewenvironment{itemize}{
-  %\smaller
-  \small
     \begin{list}{\localtextbulletone}{%% \tiny$\blacksquare$
       \setlength{\itemsep}{0.01in}
       \setlength{\parsep}{0in} 
