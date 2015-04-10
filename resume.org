@@ -9,7 +9,7 @@
 
 * Objective
 ** /Present/
-   To contribute as a software engineer to an agile team focusing on
+   To contribute as a Software Engineer to an agile team focusing on
    development of responsive web applications utilizing the latest HTML5,
    CSS3, and JavaScript libraries and frameworks.
 * Experience
@@ -51,7 +51,7 @@
 * Skills & Technology
 ** Languages
    |  *Javascript* | *CoffeeScript* | *HTML5* | *CSS3* | Python | PHP | C/C++ | Objective-C | Erlang |
-*** Framworks
+*** Frameworks
     | *express* | *stylus* | *teacup* | *jade* | *backbone.js* | socket.io | Twitter Bootstrap| Flask (python)|
 *** Libraries
     | *jQuery* | *underscore* | jquery-cycle2 | MixItUp | jquery-fancybox | fontello | chosen |
