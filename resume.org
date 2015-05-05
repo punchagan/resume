@@ -14,27 +14,30 @@
    CSS3, and JavaScript libraries and frameworks.
 * Experience
 ** December 2013 -- November 2014
-   *Software Engineer*, [[http://lessthan3.com][LessThan3]], San Francisco, CA
-   - Developed client-side interfaces using coffeescript, backbone, stylus, teacup, history api, and jQuery.
-   - Leveraged 3rd party API's including Instagram, Twitter, Youtube, Soundcloud,
+   *Software Engineer*, LessThan3 (now [[http://maestro.io][Maestro]]), San Francisco, CA
+   - Developed client-side interfaces using CoffeeScript, Backbone.js, Stylus, Teacup, History API, and jQuery.
+   - Leveraged third party API's including Instagram, Twitter, Youtube, Soundcloud,
      and Facebook.
-   - Built back-end interfaces using node.js, express, mongodb, and
-     firebase.
-   - Reviewed code via github pull requests with project managed in
-     github issues.
-   - Contributed to documentation and tutorials for future developers on the platform.
-   - Created admin dashboard tools for a live-event CMS used by Ultra Music Festival, EDC, HARD Summer, and Insomniac among others.
+   - Built back-end interfaces using Node.js, Express, MongoDB, and
+     Firebase.
+   - Reviewed code via Github pull requests with projects managed in
+     Github issues.
+   - Contributed to documentation and tutorials for future developers
+     on the Dobi platform.
+   - Created admin dashboard tools for a live-event CMS used by Ultra
+     Music Festival, EDC, HARD Summer, and Insomniac Events among others.
 
 ** April 2013 -- November 2013
    *Web Application Consultant*, Philadelphia, PA
-   - Developed web applications using Twitter bootstrap along side HTML/CSS with jQuery parsing JSON.
+   - Developed web applications using Twitter Bootstrap along side HTML/CSS with jQuery parsing JSON.
    - Managed code to implement MVC paradigms in a PHP Zend Framework environment versioned by git.
    - Created renderings of data sets in tables using DataTables as well as pie charts with HighCharts and jqPlot.
    - Generated dynamic PDF documents with third party libraries parsing XML input data.
 
 ** November 2011 -- April 2013
    *Software Engineer*, [[http://colorquick.com][ColorQuick]], Pennsauken, NJ
-   - Developed web interfaces in HTML/CSS/PHP using Twitter bootstrap along side JavaScript and jQuery.
+   - Developed web interfaces in HTML/CSS/PHP/Python/JavaScript using Twitter
+     Bootstrap and jQuery.
    - Adopted REST API paradigm for interfacing in real time with legacy applications over HTTP.
    - Managed servers running mySQL, nginx, and git on CentOS Linux.
 
@@ -46,21 +49,21 @@
 
 * Education
 ** 2005 -- 2009
-   *B.S. Computer Engineering*, Pennsylvania State University, Cumulative GPA: 3.2/4.0
+   *B.S. Computer Engineering*, Pennsylvania State University, Dean's List
 
 * Skills & Technology
 ** Languages
-   |  *Javascript* | *CoffeeScript* | *HTML5* | *CSS3* | Python | PHP | C/C++ | Objective-C | Erlang |
+   |  *JavaScript* | *CoffeeScript* | *HTML5* | *CSS3* | Python | PHP | C/C++ | Objective-C | Erlang |
 *** Frameworks
-    | *express* | *stylus* | *teacup* | *jade* | *backbone.js* | socket.io | Twitter Bootstrap| Flask (python)|
+    | *Express* | *Backbone.js* | *Stylus* | *Jade* | *Teacup* | Socket.IO | Twitter Bootstrap| Flask (python) |
 *** Libraries
-    | *jQuery* | *underscore* | jquery-cycle2 | MixItUp | jquery-fancybox | fontello | chosen |
-*** Tools
-    | *vim* | *git* | *npm* | *bower* | *gulp* | *grunt* | emacs | mercurial |
+    | *jQuery* | *Underscore.js* | *jquery-cycle2* | Mixitup | jquery-fancybox | Fontello | Chosen |
 *** Servers
-    | *Linux(Debian)* | Linux(CentOS) | FreeBSD | nginx | node.js |
+    | *Node.js* | *Linux(Debian)* | Linux(CentOS) | FreeBSD | nginx |
+*** Tools
+    | *git* | *npm* | *bower* | *gulp* | *grunt* | *vim* | *emacs* | mercurial |
 *** Data
-    | *MongoDB* | *MySQL* | redis | firebase | SQLite | JSON | 
+    | *MongoDB* | *MySQL* | Redis | Firebase | SQLite | JSON | 
 *** Methodology
     | *REST* | *MVC* | *AJAX* | SOAP |
 
@@ -70,11 +73,11 @@
   *JavaScript Developers Meetup*
 ** 2013 -- Present
   *Node.js Meetup*
+** 2015 -- Present
+  *Angular.js Meetup*
 
 # ** 2015 -- Present
 #   *Ember.js Meetup*
-# ** 2015 -- Present
-#   *Angular.js Meetup*
 # ** 2012
 #   *[[https://github.com/gcs272/Pots-Pans][Pots-N-Pans]]*, Hack the Change, Second Place
 #   - An sms based alerting system for developing nations location based subscription.

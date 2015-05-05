@@ -6,6 +6,7 @@
 .elc
 auto-save-list
 tramp
+.DS_Store
 
 # LaTeX stuff
 *.aux
