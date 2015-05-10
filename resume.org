@@ -8,9 +8,9 @@
 {{{HEADER}}}
 
 * Experience
-*** Student at Hacker School
+*** Recurser at the Recurse Center
 ***** Jun - Aug, 2014
-Hacker School is a collaborative, self-directed, 12-week programming retreat. I
+Recurse Center is a collaborative, self-directed, 12-week programming retreat. I
 spent my time getting more familiar with functional programming, the internals
 of Python, and building things using embedded hardware.
 
