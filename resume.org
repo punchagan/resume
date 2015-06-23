@@ -61,4 +61,4 @@ by many users.
 /B.E.(Hons.), Electrical and Electronics/, GPA: 8.31/10
 * Skills
   - Most comfortable with :: Python, Javascript, Emacs Lisp, HTML/CSS, Git, Linux
-  - Have worked with :: Go, C, R, Octave, Haskell, Bash, LaTeX, Mercurial
+  - Have worked with :: Go, C, R, Octave, Haskell, Elm, Bash, LaTeX, Mercurial
