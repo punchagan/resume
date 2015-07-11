@@ -8,6 +8,11 @@
 {{{HEADER}}}
 
 * Experience
+
+*** Machine Learning Intern at Infilect
+***** Jul 2015 - Now
+I am working on exploring various machine learning techniques to build
+solutions for problems involving large image collections.
 *** Recurser at the Recurse Center
 ***** Jun - Aug, 2014
 Recurse Center is a collaborative, self-directed, 12-week programming retreat. I
