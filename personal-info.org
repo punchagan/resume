@@ -1,11 +1,11 @@
-#+MACRO: FIRST
-#+MACRO: LAST
-#+MACRO: FULL
-#+MACRO: BLOG
-#+MACRO: EMAIL
-#+MACRO: PHONE
-#+MACRO: CODE
-#+MACRO: ADDRESS1
-#+MACRO: ADDRESS2
+#+MACRO: FIRST    John
+#+MACRO: LAST     Doe
+#+MACRO: FULL     {{{FIRST}}} {{{LAST}}}
+#+MACRO: BLOG     http://example.com
+#+MACRO: EMAIL    johndoe@exapmle.com
+#+MACRO: PHONE    +1 234 567 8900
+#+MACRO: CODE     https://github.com/johndoe
+#+MACRO: ADDRESS1 1, Broadway
+#+MACRO: ADDRESS2 New York
 
 #+MACRO: HEADER \resheader{ {{{FULL}}} }{ {{{BLOG}}} }{ {{{EMAIL}}} }{ {{{PHONE}}} }{ {{{ADDRESS1}}} }{ {{{ADDRESS2}}} }
