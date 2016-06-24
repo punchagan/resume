@@ -1,5 +1,5 @@
 #+OPTIONS: toc:nil H:10 tex:t
-#+STARTUP: odd hidestars indent
+#+STARTUP: hidestars indent
 #+INCLUDE: personal-info.org
 #+LaTeX_HEADER: \usepackage{mycv}
 #+LaTeX_HEADER: \hypersetup{colorlinks=true, urlcolor={url-gray}}
@@ -8,51 +8,58 @@
 {{{HEADER}}}
 
 * Experience
-
-*** Machine Learning Intern at Infilect
-***** Jul 2015 - Now
-I am working on exploring various machine learning techniques to build
-solutions for problems involving large image collections.
-*** Recurser at the Recurse Center
-***** Jun - Aug, 2014
-Recurse Center is a collaborative, self-directed, 12-week programming retreat. I
-spent my time getting more familiar with functional programming, the internals
-of Python, and building things using embedded hardware.
-
-*** Software Developer at Enthought
-***** Sep 2011 - May 2014
-Helped build a Qt (PySide) based development environment for
-Scientists/Engineers.  Also helped develop the initial design and build the
-first cut of an application deployment platform for Python based apps.  Gained
-some taste for good design, while working here.
-
-*** Research Associate at [[http://fossee.in][FOSSEE]], IIT Bombay
-***** Jul 2009 - Jul 2011
-Designed and developed material & helped conduct workshops to train college
-level teachers and students in using Python for Scientific Computing.
+** Machine Learning Engineer at [[http://infilect.com][Infilect]]
+*** Jul 2015 - Mar 2016
+Worked on a fashion assistant leveraging deep neural networks for image based
+search and retrieval
+- Built a visual similarity based search system
+- Improved the data collection platform for the product database
+** Recurser at the [[https://recurse.com][Recurse Center]]
+*** Jun - Aug, 2014
+Spent 12-weeks in a collaborative, self-directed, programming retreat
+- Learnt about the internals of Python and built an inspection tool for CPython
+  code
+- Worked with hardware and helped build a LED spectrum analyzer among other
+  things
+** Software Developer at [[http://www.enthought.com][Enthought]]
+*** Sep 2011 - May 2014
+Primarily worked on Canopy -- a Qt based development environment for
+Scientists/Engineers.
+- Helped design and build the first cut of an application platform for Python
+  based apps
+- Acquired some taste for good software design
+** Research Associate at [[http://fossee.in][FOSSEE]], IIT Bombay
+*** Jul 2009 - Jul 2011
+Helped increase the adoption of Python in college through training.
+- Designed and developed material for a course on Software Engineering for
+  Engineers and Scientists
+- Helped organize, design and conduct workshops spread across India
 * Projects
-*** cinspect
-~cinspect~ is an attempt to provide ~inspect~-like inspection for Python's
-built-ins and extension modules written in C.  I built a tool to generate
-indexes from the C sources of Python (or an extension module) using ~libclang~,
-which can later be queried using an ~inspect~-like API.
-*** LEDBot
-A bot that receives messages with text and images, and displays them on a
-LED screen.  Helped improve design of the code for extensibility and
-improved performance while on embedded hardware.
-*** crumb
+** cinspect
+~cinspect~ attempts to extend Python's built-in inspect module to add
+"inspection" for Python's builtins and other objects not written in Python.  It
+uses ~libclang~ to parse C-code and indexes it to allow looking up the source
+of the required objects, using an ~inspect~-like API.
+** Blaggregator
+~blaggregator~ is a Django powered site that aggregates blog posts of recursers
+from all over the web. I've added a bunch of features to it, and help with
+maintaining it.
+** Nikola
+Nikola is a static site and blog generator written in Python that can generate
+a blog from input in many different markup formats.  I use it to run my blog
+and have contributed a handful of plugins, features and bug fixes.
+** crumb
 A disqus-like commenting system that (ab)uses GitHub issues as the
 "database". It is an experimental hack, but can be used on real sites if
 the users are all expected to have GitHub accounts.
-
-*** org2blog
+** org2blog
 An ~Emacs~ minor mode for blogging from ~org-mode~ to Wordpress that
 makes publishing and managing blog posts extremely easy, and hence loved
 by many users.
 * Education
-*** BITS Pilani, Goa Campus, India
-***** Aug 2005 - Jun 2009
+** BITS Pilani, Goa Campus, India
+*** Aug 2005 - Jun 2009
 /B.E.(Hons.), Electrical and Electronics/, GPA: 8.31/10
 * Skills
   - Most comfortable with :: Python, Javascript, Emacs Lisp, HTML/CSS, Git, Linux
-  - Have worked with :: Go, C, R, Octave, Haskell, Elm, Bash, LaTeX, Mercurial
+  - Have worked with :: Lua, Torch, Caffe, Go, C, R, Octave, Elm, Bash, LaTeX, Mercurial
