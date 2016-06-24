@@ -30,17 +30,6 @@ some taste for good design, while working here.
 ***** Jul 2009 - Jul 2011
 Designed and developed material & helped conduct workshops to train college
 level teachers and students in using Python for Scientific Computing.
-
-*** Intern at STMicroelectronics
-***** Jan - Jun, 2009
-Developed a new sub-system for automated testing of a few of the processes, for
-testing the software on a DigitalTV Chip.  This system would, in future,
-improve the amount of automation in the testing process.
-
-*** Intern at National Physical Labs
-***** May - Jul, 2007
-Helped in the fabrication and optical & mechanical characterization of
-transparent nano-structured $Zn_{1-x}Mn_xO$ thin films.
 * Projects
 *** cinspect
 ~cinspect~ is an attempt to provide ~inspect~-like inspection for Python's
