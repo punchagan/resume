@@ -22,7 +22,8 @@
 % >>>
 
 % <<< other definitions
-\definecolor{mygrey}{gray}{0.90}
+\definecolor{my-gray}{gray}{0.90}
+\definecolor{url-gray}{gray}{0.25}
 % >>>
 
 %% Document header
@@ -40,7 +41,7 @@
 \renewcommand{\section}[1]{
   \@startsection{section}{1}{0pt}{0pt}{0pt}{\normalfont}*{}
   {
-    \large \colorbox{mygrey}{
+    \large \colorbox{my-gray}{
       \begin{minipage}
         {\textwidth-0.175in}
         {\textbf{#1 \vphantom{p\^{E}}}}
