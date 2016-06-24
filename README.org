@@ -1,6 +1,8 @@
-A repository for my resume. 
+A repository for my resume.
 
 Uses [[http://orgmode.org][Org-mode]] and a custom style sheet.  Every CV/Resume package has
 it's own environments and it's a big pain to combine them and
 customize them.  I figured, it would be easy to write my own
-style-sheet and use good old org-mode. 
+style-sheet and use good old org-mode.
+
+Requires [[http://www.ctan.org/pkg/enumitem][enumitem package]] if you are using lists.
