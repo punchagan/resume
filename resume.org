@@ -14,18 +14,21 @@
 *** Jul 2015 - Mar 2016
 Worked on a fashion assistant leveraging deep neural networks for image based
 search and retrieval
+- Learnt about CNNs and became comfortable training models using Torch and
+  Caffe
 - Built a visual similarity based search system
 - Improved the data collection platform for the product database
 ** Recurser at the [[https://recurse.com][Recurse Center]]
 *** Jun - Aug, 2014
-Spent 12-weeks in a collaborative, self-directed, programming retreat
+Spent 12-weeks in a collaborative, self-directed, programming retreat.
 - Learnt about the internals of Python and built an inspection tool for CPython
   code
 - Worked with hardware and helped build a LED spectrum analyzer among other
   things
+Daily journal of what I did there is [[https://punchagan.muse-amuse.in/tags/cat_recursecenter-checkins.html][here]].
 ** Software Developer at [[http://www.enthought.com][Enthought]]
 *** Sep 2011 - May 2014
-Primarily worked on Canopy -- a Qt based development environment for
+Primarily worked on [[https://www.enthought.com/products/canopy/][Canopy]] -- a Qt based development environment for
 Scientists/Engineers.
 - Helped design and build the first cut of an application platform for Python
   based apps
@@ -33,8 +36,8 @@ Scientists/Engineers.
 ** Research Associate at [[http://fossee.in][FOSSEE]], IIT Bombay
 *** Jul 2009 - Jul 2011
 Helped increase the adoption of Python in college through training.
-- Designed and developed material for a course on Software Engineering for
-  Engineers and Scientists
+- Designed and developed material for a course on [[https://github.com/FOSSEE/sees][Software Engineering for
+  Engineers and Scientists]]
 - Helped organize, design and conduct workshops spread across India
 * Projects
 ** cinspect
