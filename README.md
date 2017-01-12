@@ -41,7 +41,7 @@ To contribute to an agile team focused on developing responsive web applications
  - Configured on page SEO and enabled tracking via Google Analytics.
  
 # Education
- - B.S. Computer Engineering*, Pennsylvania State University, Dean's List, 2009
+ - __B.S. Computer Engineering__, Pennsylvania State University, Dean's List, 2009
 
 # Skills & Technology
 Languages        | Frameworks    | HTML/CSS         | Libraries            
