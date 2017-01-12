@@ -35,7 +35,7 @@ To contribute to an agile team focused on developing responsive web applications
  - Adopted REST API paradigm for interfacing in real time with legacy applications over HTTP.
  - Managed servers running mySQL, nginx, and git on CentOS Linux.
 
-## Freelance Web Developer, 2009 - 2011
+### Freelance Web Developer, 2009 - 2011
  - Developed client websites in HTML/CSS/JavaScript leveraging existing templates.
  - Customized WordPress installation as site and blog with content administration.
  - Configured on page SEO and enabled tracking via Google Analytics.
