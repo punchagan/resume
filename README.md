@@ -14,7 +14,7 @@ To contribute to an agile team focused on developing responsive web applications
 - Conferred with design & API teams to evaluate implementation tradeoffs for delivery and maintainability across stack.
 - Configured Jenkins Selenium regression framework leveraging full stack Dockerized containers.
 - Created complex DOM mouse handling behavior across overlayed elements.
-- Reviewed domestic and international team code submissions, onboarding engineers on internal client design patterns while collaborating on best coding practices.
+- Reviewed domestic and international team code submissions, onboarding engineers with internal client design patterns while collaborating on best coding practices.
 
 ### Software Engineer (LessThan3 now [Maestro](http://maestro.io)), 2013 - 2014, San Francisco, CA
  - Developed client-side interfaces using CoffeeScript, Backbone.js, Stylus, Teacup, History API, and jQuery.
