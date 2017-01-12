@@ -1,5 +1,6 @@
 # Eliot Baker
-[eliotbaker.com](http://eliotbaker.com), github: [ebaker](http://github.com/ebaker)
+- [eliotbaker.com](http://eliotbaker.com)
+- Github: [ebaker](http://github.com/ebaker)
 
 ## Objective
 To contribute to an agile team focused on developing responsive web applications utilizing the latest HTML5, CSS3, and JavaScript technology.
