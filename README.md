@@ -6,7 +6,7 @@
 To contribute to an agile team focused on developing responsive web applications utilizing the latest HTML5, CSS3, and JavaScript technology.
 
 ## Experience
-### UX Engineer ([OpsClarity](http://www.opsclarity.com)), 2015 - Present
+### Full Stack UI Software Engineer ([OpsClarity](http://www.opsclarity.com)), 2015 - Present
 - Developed UI components leveraging AngularJS, ReactJS, d3, HTML5, CSS3 via Sass, & ui-router.
 - Delivered mock to feature signup flow integrating account & session API alongside administrative account management & provisioning dashboards.
 - Diagnosed & debugged root cause of client side resource issues by optimizing algorithm performance for scale.
