@@ -66,8 +66,8 @@ nginx             | Firebase    | __bower__      | Flux
                   | SQLite      | __gulp__       | __AJAX__
                   | Riak        | __grunt__      |__REST__
                   |             | babel          | SOAP
-                  |             | __vim__        | __Component__
-                  |             | emacs          | __MVC__
+                  |             | __vim__        | ___MVC__
+                  |             | emacs          | __ComponentJS_
 
 # Activities
  - Angular.js Meetup, 2015 - Present
