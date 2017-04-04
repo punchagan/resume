@@ -24,7 +24,7 @@ To contribute to an agile team focused on developing responsive web applications
  - Reviewed code via Github pull requests with projects managed in Github issues.
  - Contributed to documentation and tutorials for developers on in house framework coding practices.
  - Created admin dashboard tools for a live-event CMS used by Ultra Music Festival, EDC, HARD Summer, and Insomniac Events among others.
-     
+
 ### Web Application Consultant, 2013
  - Developed web applications using Twitter Bootstrap along side HTML/CSS with jQuery parsing JSON.
  - Managed code to implement MVC paradigms in a PHP Zend Framework environment versioned by git.
@@ -40,34 +40,34 @@ To contribute to an agile team focused on developing responsive web applications
  - Developed client websites in HTML/CSS/JavaScript leveraging existing templates.
  - Customized WordPress installation as site and blog with content administration.
  - Configured on page SEO and enabled tracking via Google Analytics.
- 
+
 # Education
  - __B.S. Computer Engineering__, Pennsylvania State University, Dean's List, 2009
 
 # Skills & Technology
-Languages        | Frameworks    | HTML/CSS         | Libraries            
-------------     | ------------- | ----------       | ----------           
- __JavaScript__  | __AngularJS__ | __SASS__         | __Underscore.js__    
-__CoffeeScript__ | __ReactJS__   | __Stylus__       | __jQuery & plugins__ 
-__HTML5__        | __Express__   | __JSX__          | Sortable             
-__CSS3__         | Backbone.js   | __Jade__         |                      
-Python           | Socket.IO     | Twitter Bootstrap
-PHP              |               | Fontello
-C/C++            | |
-Erlang           | |
+| Languages        | Frameworks    | HTML/CSS         | Libraries
+| ------------     | ------------- | ----------       | ----------
+|  __JavaScript__  | __AngularJS__ | __SASS__         | __Underscore.js__
+| __CoffeeScript__ | __ReactJS__   | __Stylus__       | __jQuery & plugins__
+| __HTML5__        | __Express__   | __JSX__          | Sortable
+| __CSS3__         | Backbone.js   | __Jade__         |
+| Python           | Socket.IO     | Twitter Bootstrap|
+| PHP              |               | Fontello         |
+| C/C++            |               |                  |
+| Erlang           |               |                  |
 
-Servers           | Data        | Tools          | Methodology
--------           | ---         | ----           | -------
-__Node.js__       | __JSON__    | __git__        | __Agile__
-__Linux(Debian)__ | __MongoDB__ | __npm__        | __HTTP__
-Linux(CentOS)     | __MySQL__   | __webpack__    | WebSockets
-FreeBSD           | Redis       | __browserify__ | TCP
-nginx             | Firebase    | __bower__      | Flux
-                  | SQLite      | __gulp__       | __AJAX__
-                  | Riak        | __grunt__      |__REST__
-                  |             | babel          | SOAP
-                  |             | __vim__        | __MVC__
-                  |             | emacs          | __ComponentJS__
+| Servers           | Data        | Tools          | Methodology
+| -------           | ---         | ----           | -------
+| __Node.js__       | __JSON__    | __git__        | __Agile__
+| __Linux(Debian)__ | __MongoDB__ | __npm__        | __HTTP__
+| Linux(CentOS)     | __MySQL__   | __webpack__    | WebSockets
+| FreeBSD           | Redis       | __browserify__ | TCP
+| nginx             | Firebase    | __bower__      | Flux
+|                   | SQLite      | __gulp__       | __AJAX__
+|                   | Riak        | __grunt__      |__REST__
+|                   |             | babel          | SOAP
+|                   |             | __vim__        | __MVC__
+|                   |             | emacs          | __ComponentJS__
 
 # Activities
  - Angular.js Meetup, 2015 - Present
