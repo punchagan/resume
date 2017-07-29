@@ -51,23 +51,23 @@ Helped increase the adoption of Python in college through training.
 
 I contribute to a number of FOSS projects in varying degrees. [[https://github.com/punchagan][GitHub]] provides a
 fairly comprehensive overview.
-** cinspect
+** [[https://github.com/punchagan/cinspect][cinspect]]
 *** Python
 ~cinspect~ attempts to extend Python's built-in inspect module to add
 "inspection" for Python's builtins and other objects not written in Python.  It
 uses ~libclang~ to parse C-code and indexes it to allow looking up the source
 of the required objects, using an ~inspect~-like API.
-** Blaggregator
+** [[https://github.com/recursecenter/blaggregator][Blaggregator]]
 *** Python, Django, Javascript, CSS
 A Django powered site that aggregates blog posts of Recursers from all over the
 web. I've added a bunch of features to it, and am the current maintainer.
-** org2blog
+** [[https://github.com/org2blog/org2blog][org2blog]]
 *** Emacs-Lisp
 An ~Emacs~ minor mode for blogging to Wordpress that's loved by many users for it's ease of use.
-** crumb
+** [[https://github.com/punchagan/crumb][crumb]]
 *** Javascript, CSS
 An experimental Disqus-like commenting system that (ab)uses GitHub issues as the "database".
-** Nikola
+** [[https://github.com/getnikola/nikola][Nikola]]
 *** Python
 A static site & blog generator that I use for my blog -- contributed a handful
 of features and bug fixes over time.
