@@ -10,6 +10,13 @@
 {{{HEADER}}}
 
 * Experience
+** Software Developer at [[http://akvo.org][Akvo]]
+*** Sep 2016 - Present
+Full-stack developer for RSR --- a Django based reporting framework for
+organizations doing developmental work
+- Contributed quite a few of performance improvements to make the site snappier
+- General code quality improvements with better testing, apart from adding
+  features and fixing bugs.
 ** Machine Learning Engineer at [[http://infilect.com][Infilect]]
 *** Jul 2015 - Mar 2016
 Worked on a fashion assistant leveraging deep neural networks for image based
