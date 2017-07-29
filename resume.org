@@ -27,12 +27,13 @@ search and retrieval
 - Improved the data collection platform for the product database
 ** Recurser at the [[https://recurse.com][Recurse Center]]
 *** Jun - Aug, 2014
-Spent 12-weeks in a collaborative, self-directed, programming retreat.
+Spent 12-weeks in a collaborative, self-directed, programming retreat. Here's a
+ [[https://punchagan.muse-amuse.in/recurse-center/][daily journal]] of what I did there.
 - Learnt about the internals of Python and built an inspection tool for CPython
   code
 - Worked with hardware and helped build a LED spectrum analyzer among other
   things
-Daily journal of what I did there is [[https://punchagan.muse-amuse.in/tags/cat_recursecenter-checkins.html][here]].
+
 ** Software Developer at [[http://www.enthought.com][Enthought]]
 *** Sep 2011 - May 2014
 Primarily worked on [[https://www.enthought.com/products/canopy/][Canopy]] -- a Qt based development environment for
