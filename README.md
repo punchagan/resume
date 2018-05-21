@@ -2,10 +2,10 @@
 [eliotbaker.com](http://eliotbaker.com) • [github.com/ebaker](http://github.com/ebaker) • [eliot.resume@gmail.com](mailto:eliot.resume@gmail.com)
 
 ## Objective
-To contribute to an agile team focused on developing responsive web applications utilizing the latest HTML5, CSS3, and JavaScript technology.
+To contribute to an agile team focused on developing responsive web applications utilizing the latest HTML5, CSS3, and JavaScript technologies.
 
 ## Experience
-### Full Stack UI Software Engineer ([OpsClarity](http://www.opsclarity.com)), 2015 - Present
+### UI Software Engineer ([OpsClarity](http://www.opsclarity.com) acquired by [Lightbend](http://www.lightbend.com)), 2015 - May 2018
 - Developed UI components leveraging AngularJS, ReactJS, d3, HTML5, CSS3 via Sass, & ui-router.
 - Delivered mock to feature signup flow integrating account & session API alongside administrative account management & provisioning dashboards.
 - Diagnosed & debugged root cause of client side resource issues by optimizing algorithm performance for scale.
@@ -43,16 +43,16 @@ To contribute to an agile team focused on developing responsive web applications
  - __B.S. Computer Engineering__, Pennsylvania State University, Dean's List, 2009
 
 # Skills & Technology
-| Languages        | Frameworks    | HTML/CSS         | Libraries
-| ------------     | ------------- | ----------       | ----------
-|  __JavaScript__  | __AngularJS__ | __SASS__         | __Underscore.js__
-| __CoffeeScript__ | __ReactJS__   | __Stylus__       | __jQuery & plugins__
-| __HTML5__        | __Express__   | __JSX__          | Sortable
-| __CSS3__         | Backbone.js   | __Jade__         |
-| Python           | Socket.IO     | Twitter Bootstrap|
-| PHP              |               | Fontello         |
-| C/C++            |               |                  |
-| Erlang           |               |                  |
+| Languages        | Frameworks             | HTML/CSS          | Libraries            |
+| ------------     | ----------------       | ----------        | ----------           |
+| __JavaScript__   | __Angular (2/4/5)__    | __CSS3__          | __Underscore.js__    |
+| __TypeScript__   | __ReactJS__            | __PostCSS__       | __jQuery & plugins__ |
+| __CoffeeScript__ | __AngularJS (1.x)__    | __SASS__          | Sortable             |
+| __CSS3__         | __Express__            | __Stylus__        |                      |
+| __HTML5__        | Bootstrip.js           | __JSX__           |                      |
+| Python           | Socket.IO              | __Jade__          |                      |
+| PHP              |                        | Twitter Bootstrap |                      |
+| C/C++            |                        | Fontello          |                      |
 
 | Servers           | Data        | Tools          | Methodology
 | -------           | ---         | ----           | -------
