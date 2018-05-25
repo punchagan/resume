@@ -81,5 +81,5 @@ of features and bug fixes over time.
 *** Aug 2005 - Jun 2009
 /B.E.(Hons.), Electrical and Electronics/, GPA: 8.31/10
 * Skills
-  - Most comfortable with :: Python, Javascript, Emacs Lisp, HTML/CSS, Git, Linux
+  - Most comfortable with :: Python, Javascript, Emacs Lisp, HTML/CSS, Qt, Git, Linux
   - Have worked with :: Lua, Torch, Caffe, PySpark, R, Octave, Clojure, Go, C, Elm, Bash, LaTeX
