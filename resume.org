@@ -11,10 +11,6 @@
 
 * Experience
 
-** GSoC Mentor for [[https://summerofcode.withgoogle.com/projects/#4973810873270272][Zulip]]
-*** May 2018 - Present (ends Aug 2018)
-Mentoring a student to help build a terminal client for Zulip using it's API.
-
 ** Software Developer at [[http://akvo.org][Akvo]]
 *** Sep 2016 - Present
 Full-stack developer for RSR --- a Django based reporting framework for
@@ -22,6 +18,10 @@ organizations doing developmental work
 - Contributed quite a few of performance improvements to make the site snappier
 - General code quality improvements with better testing, apart from adding
   features and fixing bugs.
+
+** GSoC Mentor for [[https://summerofcode.withgoogle.com/projects/#4973810873270272][Zulip]]
+*** May - Aug, 2018
+Mentored a student who built a terminal client for Zulip using it's API.
 ** Machine Learning Engineer at [[http://infilect.com][Infilect]]
 *** Jul 2015 - Mar 2016
 Worked on a fashion assistant leveraging deep neural networks for image based
