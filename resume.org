@@ -72,10 +72,6 @@ An ~Emacs~ minor mode for blogging to Wordpress that's loved by many users for i
 ** [[https://github.com/punchagan/crumb][crumb]]
 *** Javascript, CSS
 An experimental Disqus-like commenting system that (ab)uses GitHub issues as the "database".
-** [[https://github.com/getnikola/nikola][Nikola]]
-*** Python
-A static site & blog generator that I use for my blog -- contributed a handful
-of features and bug fixes over time.
 * Education
 ** BITS Pilani, Goa Campus, India
 *** Aug 2005 - Jun 2009
