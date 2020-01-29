@@ -10,18 +10,22 @@
 {{{HEADER}}}
 
 * Experience
-
 ** Software Developer at [[http://akvo.org][Akvo]]
 *** Sep 2016 - Present
 Full-stack developer for RSR --- a Django based reporting framework for
 organizations doing developmental work
+- Lead back-end developer for the past year or so. Been focused on getting rid
+  of tech-debt and helping the team move faster.
 - Contributed quite a few of performance improvements to make the site snappier
 - General code quality improvements with better testing, apart from adding
   features and fixing bugs.
-
 ** GSoC Mentor for [[https://summerofcode.withgoogle.com/projects/#4973810873270272][Zulip]]
 *** May - Aug, 2018
 Mentored a student who built a terminal client for Zulip using it's API.
+*** May - Aug, 2019
+Mentored a couple of students, one who worked on the terminal client the
+previous year as well, and another who worked on message archival and
+solidifying the email gateway for Zulip.
 ** Machine Learning Engineer at [[http://infilect.com][Infilect]]
 *** Jul 2015 - Mar 2016
 Worked on a fashion assistant leveraging deep neural networks for image based
@@ -38,7 +42,6 @@ Spent 12-weeks in a collaborative, self-directed, programming retreat. Here's a
   code
 - Worked with hardware and helped build a LED spectrum analyzer among other
   things
-
 ** Software Developer at [[http://www.enthought.com][Enthought]]
 *** Sep 2011 - May 2014
 Primarily worked on [[https://www.enthought.com/products/canopy/][Canopy]] -- a Qt based development environment for
