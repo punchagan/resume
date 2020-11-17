@@ -2,10 +2,10 @@
 #+MACRO: LAST     Doe
 #+MACRO: FULL     {{{FIRST}}} {{{LAST}}}
 #+MACRO: BLOG     http://example.com
-#+MACRO: EMAIL    johndoe@exapmle.com
+#+MACRO: E-MAIL   johndoe@exapmle.com
 #+MACRO: PHONE    +1 234 567 8900
 #+MACRO: CODE     https://github.com/johndoe
 #+MACRO: ADDRESS1 1, Broadway
 #+MACRO: ADDRESS2 New York
 
-#+MACRO: HEADER \resheader{ {{{FULL}}} }{ {{{BLOG}}} }{ {{{EMAIL}}} }{ {{{PHONE}}} }{ {{{ADDRESS1}}} }{ {{{ADDRESS2}}} }
+#+MACRO: HEADER \resheader{ {{{FULL}}} }{ {{{BLOG}}} }{ {{{E-MAIL}}} }{ {{{PHONE}}} }{ {{{ADDRESS1}}} }{ {{{ADDRESS2}}} }
