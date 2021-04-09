@@ -1,0 +1,6 @@
+A repository for my resume.
+
+This resume uses a modified version of [[https://github.com/posquit0/Awesome-CV/][Awesome CV]].
+
+An [[http://orgmode.org][Org-mode]] based resume with a custom style sheet is available on the
+branch ~org-mode-resume~.
