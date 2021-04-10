@@ -390,6 +390,9 @@
 % Use to execute conditional statements by checking empty string
 \newcommand*{\ifempty}[3]{\ifthenelse{\isempty{#1}}{#2}{#3}}
 
+% Date with only month and year
+\usepackage{datetime}
+\newdateformat{monthyeardate}{\monthname[\THEMONTH], \THEYEAR}
 
 %-------------------------------------------------------------------------------
 %                Commands for elements of CV structure
