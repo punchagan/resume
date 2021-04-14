@@ -661,6 +661,8 @@
   \vspace{-4.0mm}
 }
 
+% Command for links in titles
+\newcommand{\externallink}[1]{\href{#1}{\color{graytext}\tiny\faExternalLink}}
 
 %-------------------------------------------------------------------------------
 %                Commands for elements of Cover Letter
