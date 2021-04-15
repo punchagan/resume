@@ -664,6 +664,10 @@
 % Command for links in titles
 \newcommand{\externallink}[1]{\href{#1}{\color{graytext}\tiny\faExternalLink*}}
 
+% Command for tech stack in cvitems
+\newcommand*{\techstackstyle}[1]{{\fontsize{7pt}{1em}\bodyfont\bfseries\color{lighttext} #1}}
+\newcommand{\techstack}[1]{\vspace{-0.5mm}\item[]{\hspace{-3mm}\techstackstyle{\faTools\enspace #1}}\vspace{1mm}}
+
 %-------------------------------------------------------------------------------
 %                Commands for elements of Cover Letter
 %-------------------------------------------------------------------------------
