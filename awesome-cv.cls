@@ -73,7 +73,7 @@
 % Needed to manage math fonts
 \RequirePackage{unicode-math}
 % Needed to use icons from font-awesome
-\RequirePackage{fontawesome}
+\RequirePackage{fontawesome5}
 \RequirePackage{roboto}
 \RequirePackage[default,opentype]{sourcesanspro}
 % Needed for the photo ID
@@ -438,7 +438,7 @@
       \ifthenelse{\isundefined{\@mobile}}%
         {}%
         {%
-          \faMobile\acvHeaderIconSep\@mobile%
+          \faMobile*\acvHeaderIconSep\@mobile%
           \setbool{isstart}{false}%
         }%
       \ifthenelse{\isundefined{\@email}}%
@@ -662,7 +662,7 @@
 }
 
 % Command for links in titles
-\newcommand{\externallink}[1]{\href{#1}{\color{graytext}\tiny\faExternalLink}}
+\newcommand{\externallink}[1]{\href{#1}{\color{graytext}\tiny\faExternalLink*}}
 
 %-------------------------------------------------------------------------------
 %                Commands for elements of Cover Letter
