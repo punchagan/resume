@@ -1,4 +1,4 @@
-#+OPTIONS: toc:nil H:10 tex:t
+#+OPTIONS: toc:nil H:10 tex:t num:1
 #+STARTUP: hidestars indent
 #+INCLUDE: personal-info.org
 #+LaTeX_HEADER: \usepackage{mycv}
